@@ -1,0 +1,5829 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+  <w:body>
+    <w:p w14:paraId="71431D3D" w14:textId="6D9D6D48" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="Title" />
+      </w:pPr>
+      <w:r>
+        <w:t>My Dissertation Tit</w:t>
+      </w:r>
+      <w:r w:rsidR="00643083">
+        <w:t>les</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="36C5AB91" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRPr="004169FC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="Subtitle" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r w:rsidRPr="004169FC">
+        <w:t>My Subtitle</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="58539DA2" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1AD34664" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="36402B71" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="56CF61F8" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>By</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6CEE51B7" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>My Name</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0DC1C588" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5DC3A32F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3558256E" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="11A0C142" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>A thesis submitted to</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F22C1B7" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>Harrisburg University of Science and Technology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="536E60EC" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>for the degree of</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C891699" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>Doctor of Philosophy</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4234D5C1" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7FF935B6" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004010ED" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4C6A335D" wp14:editId="21415FD6">
+            <wp:extent cx="3667125" cy="1247775" />
+            <wp:effectExtent l="0" t="0" r="9525" b="9525" />
+            <wp:docPr id="1232787195" name="Picture 2" descr="A logo for a university&#xA;&#xA;Description automatically generated" />
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1" />
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1232787195" name="Picture 2" descr="A logo for a university&#xA;&#xA;Description automatically generated" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId6">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0" />
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="3667125" cy="1247775" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="168E76D7" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7271C2FC" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:jc w:val="center" />
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1152362F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>Department of Analytics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19F56DA3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>Harrisburg University of Science and Technology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="777BC168" w14:textId="77777777" w:rsidR="004169FC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:t>August 2023</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61B79FA6" w14:textId="77777777" w:rsidR="004169FC" w:rsidRDefault="004169FC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C74A0A9" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>© Copyright by My Name, 2023</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="014448D1" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:r>
+        <w:t>All Rights Reserved</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="33AA301A" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRPr="004169FC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:r w:rsidRPr="004169FC">
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="23041570" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="_Toc144294424" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Abstract</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="0" />
+    </w:p>
+    <w:p w14:paraId="6EB72D4F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">This R Markdown template is for writing </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>an</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> Harrisburg University dissertation. The template is built using Yihui Xie’s </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>bookdown</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> package, with heavy inspiration from Chester Ismay’s </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>thesisdown</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> and the </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>OxThesis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Tahoma" w:hAnsi="Tahoma" w:cs="Tahoma" />
+        </w:rPr>
+        <w:t> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>aTeX</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> template (most recently adapted by John McManigle). This template’s sample content </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>include</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> illustrations of how to write a thesis in R Markdown, and largely follows the structure from this R Markdown workshop1. Congratulations for taking a step further into the lands of open, reproducible science by writing your thesis using a tool that allows you to transparently include tables and dynamically generated plots directly from the underlying data. Hip hooray! Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus. At </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>natum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>legimus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> per, ex his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>meis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>bonorum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fuisset</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Id </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>equidem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dolores</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>principes</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Te</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fabulas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>facilisis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> est. Ad </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> case dicit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>numquam</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>oratio</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dicant</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>soluta</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Nisl</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> prima </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>voluptatibus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vis, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>enim</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>postea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>offendit</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, tale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>purto</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ne </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>errem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vivendo</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="04521A10" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5CBE9853" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16E6910E" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004169FC">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:bookmarkStart w:id="1" w:name="_Toc144294425" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Dedication</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="1" />
+    </w:p>
+    <w:p w14:paraId="265784F4" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="NoSpacing" />
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="06944755" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01812E52" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="53DABA3B" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:bookmarkStart w:id="2" w:name="_Toc144294426" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Ph.D. COMMITTEE APPROVAL</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="2" />
+    </w:p>
+    <w:p w14:paraId="09275D5A" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:spacing w:line="360" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:t>To the Faculty of Harrisburg University of Science and Technology:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4635048F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:spacing w:line="360" w:lineRule="auto" />
+        <w:ind w:firstLine="720" />
+      </w:pPr>
+      <w:r>
+        <w:t>The members of the Committee appointed to examine the dissertation of My Name find it satisfactory and recommend that it be accepted.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7AFCCAFF" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="4F048BCD" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="7C74185A" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="0CD72F95" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="36491669" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="2CED8539" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Chair’s Name, Ph.D., Chair</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2F1CB5B3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="7B734D45" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="11684795" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Comity member 1, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="688EC7D0" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="4894689A" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="007DC752" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Comity member 2, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7454536D" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="6211771B" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="53132B96" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Comity member 3, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="217BFF19" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="2CF62140" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="79664C71" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Comity member 4, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="648F9418" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="73313F19" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="434E8EE1" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:bookmarkStart w:id="3" w:name="_Toc144294427" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>ACCEPTANCE PAGE</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="3" />
+    </w:p>
+    <w:p w14:paraId="37CC1DB0" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:spacing w:line="360" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">As a duly </w:t>
+      </w:r>
+      <w:r w:rsidR="00EC6F36">
+        <w:t>authorized</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> representative of Harrisburg University of Science and Technology, I have read the thesis of My Name in its final form and have found that (1) its format, citations, and bibliographical style are consistent and acceptable and fulfill university and department style requirements; (2) its illustrative materials including figures, tables, and charts are in place; and (3) the final manuscript is satisfactory to the graduate committee and is ready for submission to the university library.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2C9BBB83" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="6D754A82" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="47B846BA" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="037E1DD3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="184AC95F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="081C1150" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Chair’s Name, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="37D0EEB3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Chair, Graduate </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Committe</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+    </w:p>
+    <w:p w14:paraId="65620B30" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Harrisburg University of Science and Technology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D54192F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="1E571DBB" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="0F1C59F1" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>W. Randolph Ford, Ph.D.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4DB31F35" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Department of Analytics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6BC117FB" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Harrisburg University of Science and Technology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69C1EF51" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="5006EF6F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="351C5C94" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Bilita Mattes, D.Ed.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1C1858C8" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Provost</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6D12C147" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Harrisburg University of Science and Technology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="038DABB8" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6D016D1C" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6AC3BF02" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00EC6F36">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:bookmarkStart w:id="4" w:name="_Toc144294428" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Acknowledgements</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="4" />
+    </w:p>
+    <w:p w14:paraId="7283A908" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3FF89B08" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F6056F3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:sdt>
+      <w:sdtPr>
+        <w:rPr>
+          <w:rFonts w:ascii="CMU Serif" w:eastAsiaTheme="minorHAnsi" w:hAnsi="CMU Serif" w:cstheme="minorBidi" />
+          <w:color w:val="auto" />
+          <w:kern w:val="2" />
+          <w:sz w:val="28" />
+          <w:szCs w:val="22" />
+          <w14:ligatures w14:val="standardContextual" />
+        </w:rPr>
+        <w:id w:val="-1278876599" />
+        <w:docPartObj>
+          <w:docPartGallery w:val="Table of Contents" />
+          <w:docPartUnique />
+        </w:docPartObj>
+      </w:sdtPr>
+      <w:sdtEndPr>
+        <w:rPr>
+          <w:b />
+          <w:bCs />
+          <w:noProof />
+        </w:rPr>
+      </w:sdtEndPr>
+      <w:sdtContent>
+        <w:p w14:paraId="6DF48855" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00EC6F36">
+          <w:pPr>
+            <w:pStyle w:val="TOCHeading" />
+          </w:pPr>
+          <w:r>
+            <w:t>Table of Contents</w:t>
+          </w:r>
+        </w:p>
+        <w:p w14:paraId="591F1FD6" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00EC6F36">
+          <w:pPr>
+            <w:pStyle w:val="TOC1" />
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="9350" />
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+              <w:noProof />
+              <w:sz w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:r>
+            <w:fldChar w:fldCharType="begin" />
+          </w:r>
+          <w:r>
+            <w:instrText xml:space="preserve"> TOC \o "1-3" \h \z \u </w:instrText>
+          </w:r>
+          <w:r>
+            <w:fldChar w:fldCharType="separate" />
+          </w:r>
+          <w:hyperlink w:anchor="_Toc144294424" w:history="1">
+            <w:r w:rsidRPr="002A5EC7">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink" />
+                <w:noProof />
+              </w:rPr>
+              <w:t>Abstract</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:tab />
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:instrText xml:space="preserve"> PAGEREF _Toc144294424 \h </w:instrText>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:t>3</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="end" />
+            </w:r>
+          </w:hyperlink>
+        </w:p>
+        <w:p w14:paraId="1A15316E" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00000000">
+          <w:pPr>
+            <w:pStyle w:val="TOC1" />
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="9350" />
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+              <w:noProof />
+              <w:sz w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:anchor="_Toc144294425" w:history="1">
+            <w:r w:rsidR="00EC6F36" w:rsidRPr="002A5EC7">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink" />
+                <w:noProof />
+              </w:rPr>
+              <w:t>Dedication</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:tab />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:instrText xml:space="preserve"> PAGEREF _Toc144294425 \h </w:instrText>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:t>5</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="end" />
+            </w:r>
+          </w:hyperlink>
+        </w:p>
+        <w:p w14:paraId="3A1616E3" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00000000">
+          <w:pPr>
+            <w:pStyle w:val="TOC1" />
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="9350" />
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+              <w:noProof />
+              <w:sz w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:anchor="_Toc144294426" w:history="1">
+            <w:r w:rsidR="00EC6F36" w:rsidRPr="002A5EC7">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink" />
+                <w:noProof />
+              </w:rPr>
+              <w:t>Ph.D. COMMITTEE APPROVAL</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:tab />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:instrText xml:space="preserve"> PAGEREF _Toc144294426 \h </w:instrText>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:t>7</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="end" />
+            </w:r>
+          </w:hyperlink>
+        </w:p>
+        <w:p w14:paraId="7C78D8B4" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00000000">
+          <w:pPr>
+            <w:pStyle w:val="TOC1" />
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="9350" />
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+              <w:noProof />
+              <w:sz w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:anchor="_Toc144294427" w:history="1">
+            <w:r w:rsidR="00EC6F36" w:rsidRPr="002A5EC7">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink" />
+                <w:noProof />
+              </w:rPr>
+              <w:t>ACCEPTANCE PAGE</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:tab />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:instrText xml:space="preserve"> PAGEREF _Toc144294427 \h </w:instrText>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:t>10</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="end" />
+            </w:r>
+          </w:hyperlink>
+        </w:p>
+        <w:p w14:paraId="431E7437" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00000000">
+          <w:pPr>
+            <w:pStyle w:val="TOC1" />
+            <w:tabs>
+              <w:tab w:val="right" w:leader="dot" w:pos="9350" />
+            </w:tabs>
+            <w:rPr>
+              <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+              <w:noProof />
+              <w:sz w:val="22" />
+            </w:rPr>
+          </w:pPr>
+          <w:hyperlink w:anchor="_Toc144294428" w:history="1">
+            <w:r w:rsidR="00EC6F36" w:rsidRPr="002A5EC7">
+              <w:rPr>
+                <w:rStyle w:val="Hyperlink" />
+                <w:noProof />
+              </w:rPr>
+              <w:t>Acknowledgements</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:tab />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="begin" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:instrText xml:space="preserve"> PAGEREF _Toc144294428 \h </w:instrText>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="separate" />
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:t>13</w:t>
+            </w:r>
+            <w:r w:rsidR="00EC6F36">
+              <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+              </w:rPr>
+              <w:fldChar w:fldCharType="end" />
+            </w:r>
+          </w:hyperlink>
+        </w:p>
+        <w:p w14:paraId="025D4185" w14:textId="77777777" w:rsidR="00EC6F36" w:rsidRDefault="00EC6F36">
+          <w:r>
+            <w:rPr>
+              <w:b />
+              <w:bCs />
+              <w:noProof />
+            </w:rPr>
+            <w:fldChar w:fldCharType="end" />
+          </w:r>
+        </w:p>
+      </w:sdtContent>
+    </w:sdt>
+    <w:p w14:paraId="4EA72F22" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7EC7FE72" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>List of tables</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59795D1D" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1FF60B90" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D26479D" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>List of figures</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="009623A3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AE1D046" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="63FFDFC6" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00D11CE7">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Introduction</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6A38AC2C" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="1B31F219" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="662161F3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Above all else, look to your committee for needed chapters and their content.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="29B7A250" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="04DA9448" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>Your standard APA introduction goes here.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="507750FE" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="0C6AFB04" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F2C7AA7" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="686A4D54" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">At </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>natum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>legimus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> per, ex his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>meis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>bonorum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fuisset</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Id </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>equidem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dolores</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>principes</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Te</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fabulas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>facilisis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> est. Ad </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> case dicit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>numquam</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>oratio</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dicant</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>soluta</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Nisl</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> prima </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>voluptatibus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vis, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>enim</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>postea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>offendit</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, tale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>purto</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ne </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>errem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vivendo</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="512588AD" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27F923AD" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="00D11CE7">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>General Overview</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BDA5A9F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="22D35723" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>At this point you have already written at least three different literature reviews. This chapter explains why your portfolio should be considered as a single work, not several different works stapled together.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="20C2973C" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="64309124" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="363D02B2" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="5D9D40BA" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">At </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>natum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>legimus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> per, ex his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>meis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>bonorum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fuisset</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Id </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>equidem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dolores</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>principes</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Te</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>fabulas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>facilisis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> est. Ad </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> case dicit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>numquam</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>oratio</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dicant</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>soluta</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Nisl</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> prima </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>voluptatibus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vis, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>enim</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>postea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>offendit</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, tale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>purto</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ne </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>errem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vivendo</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74C90625" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="5EFDACD4" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Diam </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>justo</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et quo, </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>an</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> prima </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>inermis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> qui. Eam </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>laudem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>praesent</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> no, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>atqui</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>graeco</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nonumes</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>te</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> sed, et has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>suas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> facete </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>diceret</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Nihil </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>instructior</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ius</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ad, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nec</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> nobis </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>utamur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ad. No </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiare</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>theophrastus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, vim novum </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>scribentur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44DC36BA" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="4F2C651F" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Semper </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>instructior</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> sit, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>tamquam</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>dolores</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Ex </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>suas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vocent</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> delicata </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>est</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>augue</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> populo </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>te</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Accumsan</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>aliquando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vituperatoribus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mel</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, ne </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>euismod</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>instructior</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vel, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> delectus </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>appetere</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Pro id </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>graeci</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>laoreet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eligendi</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Eos ex animal </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>timeam</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>accumsan</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, ad </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mel</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>platonem</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> delicata. Quo doming </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>necessitatibus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="75303126" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC">
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54DA654E" w14:textId="77777777" w:rsidR="0022143C" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Research Status</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="596D4DC2" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">This chapter details where you are going to publish your portfolio works. You need the working name, targeted publisher, </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>current status</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t>, and timeline.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="514CDEF2" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="0D11D118" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>This chapter will be very short and only needed as part of your proposal.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F8F3DC3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="35415CF3" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>The following sections detail the targeted publications.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27979A8A" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="7E1065D0" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>“My 1st Publication”, Chapter 4</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="561ED9EB" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>“My 2nd Publication”, Chapter 5</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="789AE1DC" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>“My 3rd Publication”, Chapter 6</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68D7BECA" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">Chapter 4 will be submitted to </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>the Data2</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> for consideration in their January Issue. Chapter 5 will be submitted to </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>the Data3</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> for consideration in their January Issue. Chapter 6 will be submitted to </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>the Data4</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> for consideration in their January Issue.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="37BF2D9D" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC" />
+    <w:p w14:paraId="3C45BEE5" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve">NOTE: The chapters in your publications are sub-chapters in your dissertation. This means you need to add a </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5AB92F61" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>2</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0D5B946D" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>n</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0D59DA90" w14:textId="77777777" w:rsidR="004F5FCC" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t>d</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B228C4C" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="004F5FCC" w:rsidP="004F5FCC">
+      <w:r>
+        <w:t xml:space="preserve"> # in front of your headings in those files.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="076D0C1D" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7">
+      <w:pPr>
+        <w:spacing w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D767977" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="004F5FCC">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>My First Publication</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="451ECEA1" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>Originally titled: My 1st Publication</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49E9CED4" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="29B07AC7" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>by My Name, My co-authors</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7262DD03" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="55C5A92F" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.1 Abstract</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AF85BE6" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44EA48A4" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="6AF19D5B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.2 Introduction</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="522EADD5" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="63CFB54B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="326AF42F" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.3 Literature Review</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C26852B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+    </w:p>
+    <w:p w14:paraId="7CCF9124" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="42002011" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19DB0E1C" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="03B90B29" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.4 Method and Materials</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6CEDE634" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7DA54F93" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="49EAAFD1" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.5 Results</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B67B0AE" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="63F1CF30" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="4EA64552" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Data from </w:t>
+      </w:r>
+      <w:sdt>
+        <w:sdtPr>
+          <w:id w:val="1020585929" />
+          <w:citation />
+        </w:sdtPr>
+        <w:sdtContent>
+          <w:r>
+            <w:fldChar w:fldCharType="begin" />
+          </w:r>
+          <w:r>
+            <w:instrText xml:space="preserve"> CITATION Pen23 \l 1033 </w:instrText>
+          </w:r>
+          <w:r>
+            <w:fldChar w:fldCharType="separate" />
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:noProof />
+            </w:rPr>
+            <w:t>(Pennsylvania State Police, 2023)</w:t>
+          </w:r>
+          <w:r>
+            <w:fldChar w:fldCharType="end" />
+          </w:r>
+        </w:sdtContent>
+      </w:sdt>
+    </w:p>
+    <w:p w14:paraId="5BBE2F4F" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="TableGrid" />
+        <w:tblW w:w="0" w:type="auto" />
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="2337" />
+        <w:gridCol w:w="2337" />
+        <w:gridCol w:w="2338" />
+        <w:gridCol w:w="2338" />
+      </w:tblGrid>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="0D2A5BB4" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="2A29BF58" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:bCs />
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Gender</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="1E9E5E0D" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:bCs />
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Administered</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="3C8ACC59" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:bCs />
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Survive</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="33CE51F1" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:bCs />
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Freq</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="00F60471" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="2D0CB101" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Female</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="5AEF3812" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="2646FA09" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="0BF2E98A" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>734</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="2AC8C24E" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="79150417" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Female</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="364AEA88" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="7314324E" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="68DABE70" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>1450</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="5F556FB1" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="72D2E839" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Female</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="2023D443" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="1992C411" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="2E787CB8" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>253</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="58664022" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="6BAAB2C3" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Female</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="0E98DE66" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="1998B6C4" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="12A82A2A" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>3433</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="4425DBCD" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="65B73F00" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Male</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="41F8DD5C" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="0350DDA7" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="5054113B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>1800</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="29343412" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="7B6E305E" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Male</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="4D4291BD" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="0DDDE8CA" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="15383ACB" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>2492</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="03C510F7" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="52BE6477" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Male</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="6D20FF78" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="25F5A16C" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>N</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="5B3E6567" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>606</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidR="00D11CE7" w14:paraId="0E654CC3" w14:textId="77777777" w:rsidTr="00BF4A77">
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="3A288077" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Male</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2337" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="3ED51991" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="10429C55" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>Y</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2338" w:type="dxa" />
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p w14:paraId="66741562" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+            <w:r>
+              <w:rPr>
+                <w:color w:val="000000" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>8106</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="5F3E877D" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="7CE0BE84" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54F9D4AC" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="0F60BB1B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:lastRenderedPageBreak />
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="6406618B" wp14:editId="63D8F24D">
+            <wp:extent cx="5943600" cy="4245610" />
+            <wp:effectExtent l="0" t="0" r="0" b="2540" />
+            <wp:docPr id="2077464138" name="Picture 1" descr="A graph with blue and pink bars&#xA;&#xA;Description automatically generated" />
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1" />
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2077464138" name="Picture 1" descr="A graph with blue and pink bars&#xA;&#xA;Description automatically generated" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId7">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0" />
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="5943600" cy="4245610" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0CF6AE83" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E9197CD" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="627986DC" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>4.6 Conclusion</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6B379BA2" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>amet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, his </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ornatus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>disputando</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ut.</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>Reprimique</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>adversarium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> in </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>vix</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, labore </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>virtute</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>nominati</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> pro </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Per </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>sonet</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> omnium, cu </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>torquatos</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiandae</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> vim. Dolor </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>quaerendum</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> an </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">. Libris </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>singulis</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>posidonium</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> has </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>usu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> et sale </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>urbanitas</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>efficiantur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F5A7D67" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7">
+      <w:pPr>
+        <w:spacing w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D89B374" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Conclusion</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="06B65D95" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="1D30DAF2" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="764C4A21" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>If we don’t want Conclusion to have a chapter number next to it, we can add the {-} attribute.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="67C4DA7C" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="05FEA2B0" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>More info</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14B3F309" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7" />
+    <w:p w14:paraId="567F637B" w14:textId="77777777" w:rsidR="00D11CE7" w:rsidRDefault="00D11CE7" w:rsidP="00D11CE7">
+      <w:r>
+        <w:t>And here’s some other random info: the first paragraph after a chapter title or section head shouldn’t be indented, because indents are to tell the reader that you’re starting a new paragraph. Since that’s obvious after a chapter or section title, proper typesetting doesn’t add an indent there.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70183CE6" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E">
+      <w:pPr>
+        <w:spacing w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:sdt>
+      <w:sdtPr>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi" w:cstheme="minorBidi" />
+          <w:b w:val="0" />
+          <w:bCs w:val="0" />
+          <w:kern w:val="2" />
+          <w:sz w:val="28" />
+          <w:szCs w:val="22" />
+          <w14:ligatures w14:val="standardContextual" />
+        </w:rPr>
+        <w:id w:val="664438091" />
+        <w:docPartObj>
+          <w:docPartGallery w:val="Bibliographies" />
+          <w:docPartUnique />
+        </w:docPartObj>
+      </w:sdtPr>
+      <w:sdtContent>
+        <w:p w14:paraId="6CE52DE0" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E">
+          <w:pPr>
+            <w:pStyle w:val="Heading1" />
+          </w:pPr>
+          <w:r>
+            <w:t>References</w:t>
+          </w:r>
+        </w:p>
+        <w:sdt>
+          <w:sdtPr>
+            <w:id w:val="-573587230" />
+            <w:bibliography />
+          </w:sdtPr>
+          <w:sdtContent>
+            <w:p w14:paraId="2F1DE0FD" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E" w:rsidP="00C2018E">
+              <w:pPr>
+                <w:pStyle w:val="Bibliography" />
+                <w:ind w:left="720" w:hanging="720" />
+                <w:rPr>
+                  <w:noProof />
+                  <w:kern w:val="0" />
+                  <w:sz w:val="24" />
+                  <w:szCs w:val="24" />
+                  <w14:ligatures w14:val="none" />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:fldChar w:fldCharType="begin" />
+              </w:r>
+              <w:r>
+                <w:instrText xml:space="preserve"> BIBLIOGRAPHY </w:instrText>
+              </w:r>
+              <w:r>
+                <w:fldChar w:fldCharType="separate" />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:t xml:space="preserve">Newman, M. (2023, 08 30). </w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:iCs />
+                  <w:noProof />
+                </w:rPr>
+                <w:t>stormdown.</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:t xml:space="preserve"> Retrieved from GitHub: https://github.com/HarrisburgUniversityPhd/stormdown-docx</w:t>
+              </w:r>
+            </w:p>
+            <w:p w14:paraId="284D1211" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E" w:rsidP="00C2018E">
+              <w:pPr>
+                <w:pStyle w:val="Bibliography" />
+                <w:ind w:left="720" w:hanging="720" />
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:t xml:space="preserve">Pennsylvania State Police. (2023). </w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:i />
+                  <w:iCs />
+                  <w:noProof />
+                </w:rPr>
+                <w:t>Overdose information network data CY january 2018 - current monthly county state police.</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:t xml:space="preserve"> Open Data Pennsylvania. Retrieved from https://data.pa.gov/Opioid</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>Related/Overdose</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>Information</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>Network</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>Data</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>CY</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>January</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>2018</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>/hbkk</w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:noProof />
+                </w:rPr>
+                <w:noBreakHyphen />
+                <w:t>dwy3</w:t>
+              </w:r>
+            </w:p>
+            <w:p w14:paraId="2FBAECF2" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E" w:rsidP="00C2018E">
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:bCs />
+                  <w:noProof />
+                </w:rPr>
+                <w:fldChar w:fldCharType="end" />
+              </w:r>
+            </w:p>
+          </w:sdtContent>
+        </w:sdt>
+      </w:sdtContent>
+    </w:sdt>
+    <w:p w14:paraId="3120C06E" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRDefault="00C2018E">
+      <w:pPr>
+        <w:spacing w:line="259" w:lineRule="auto" />
+        <w:rPr>
+          <w:rFonts w:eastAsia="Times New Roman" w:cs="Times New Roman" />
+          <w:b />
+          <w:bCs />
+          <w:kern w:val="36" />
+          <w:sz w:val="36" />
+          <w:szCs w:val="48" />
+          <w14:ligatures w14:val="none" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:br w:type="page" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5082FE7F" w14:textId="77777777" w:rsidR="00C2018E" w:rsidRPr="004F5FCC" w:rsidRDefault="00C2018E" w:rsidP="00C2018E">
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+    </w:p>
+    <w:sectPr w:rsidR="00C2018E" w:rsidRPr="004F5FCC">
+      <w:pgSz w:w="12240" w:h="15840" />
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+      <w:cols w:space="720" />
+      <w:docGrid w:linePitch="360" />
+    </w:sectPr>
+  </w:body>
+</w:document>
