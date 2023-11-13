@@ -20,6 +20,7 @@
           <w:noProof />
         </w:rPr>
         <w:sectPr w:rsidR="00624368">
+          <w:footerReference w:type="default" r:id="rId7" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
@@ -193,7 +194,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="1FF1ECD7" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="1FF1ECD7" w14:textId="26DC1C4D" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -204,7 +205,7 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>TOC</w:t>
+        <w:t>Table of Contence – Table of Contence</w:t>
       </w:r>
     </w:p>
     <w:p w14:paraId="63803242" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
@@ -212,10 +213,12 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
+          <w:footerReference w:type="default" r:id="rId8" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgNumType w:fmt="lowerRoman" w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -240,10 +243,11 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -268,16 +272,17 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="0BB1C01E" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="0BB1C01E" w14:textId="3493DEC5" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -288,18 +293,25 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>Intro</w:t>
+        <w:t>Intro - Intro - Intro - Intro</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="25859F31" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="25859F31" w14:textId="59D0F181" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="001D7F82">
       <w:pPr>
+        <w:pStyle w:val="ListParagraph" />
+        <w:numPr>
+          <w:ilvl w:val="0" />
+          <w:numId w:val="1" />
+        </w:numPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
+          <w:footerReference w:type="default" r:id="rId9" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgNumType w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
