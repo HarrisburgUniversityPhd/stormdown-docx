@@ -19,10 +19,11 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368">
-          <w:footerReference w:type="default" r:id="rId7" />
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+          <w:footerReference w:type="even" r:id="rId7" />
+          <w:footerReference w:type="default" r:id="rId8" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -47,9 +48,9 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -74,9 +75,9 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -101,10 +102,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -129,10 +130,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -157,10 +158,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -185,10 +186,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -213,11 +214,11 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
-          <w:footerReference w:type="default" r:id="rId8" />
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+          <w:footerReference w:type="default" r:id="rId9" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:pgNumType w:fmt="lowerRoman" w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -243,10 +244,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -272,10 +273,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -306,11 +307,11 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="001D7F82">
-          <w:footerReference w:type="default" r:id="rId9" />
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+          <w:footerReference w:type="default" r:id="rId10" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:pgNumType w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -331,15 +332,16 @@
         <w:t>General Overview</w:t>
       </w:r>
     </w:p>
+
     <w:p w14:paraId="1238F34B" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -364,10 +366,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -392,10 +394,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -420,10 +422,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -448,10 +450,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -476,10 +478,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -504,10 +506,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00624368">
+        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -527,10 +529,10 @@
         <w:t>Appendix</w:t>
       </w:r>
     </w:p>
-    <w:sectPr w:rsidR="0022143C" w:rsidSect="00624368">
+    <w:sectPr w:rsidR="0022143C" w:rsidSect="00C221E3">
       <w:type w:val="oddPage" />
       <w:pgSz w:w="12240" w:h="15840" />
-      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
       <w:cols w:space="720" />
       <w:docGrid w:linePitch="360" />
     </w:sectPr>

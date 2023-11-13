@@ -5,6 +5,7 @@
   <w:doNotTrackMoves />
   <w:doNotTrackFormatting />
   <w:defaultTabStop w:val="720" />
+  <w:evenAndOddHeaders />
   <w:characterSpacingControl w:val="doNotCompress" />
   <w:footnotePr>
     <w:footnote w:id="-1" />
@@ -30,6 +31,8 @@
     <w:rsid w:val="00407BA7" />
     <w:rsid w:val="0053278B" />
     <w:rsid w:val="00624368" />
+    <w:rsid w:val="00C221E3" />
+    <w:rsid w:val="00C76D85" />
     <w:rsid w:val="00CB7722" />
     <w:rsid w:val="00CD4F63" />
   </w:rsids>
