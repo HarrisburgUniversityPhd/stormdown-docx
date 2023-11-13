@@ -20,8 +20,7 @@
           <w:noProof />
         </w:rPr>
         <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
-          <w:footerReference w:type="even" r:id="rId7" />
-          <w:footerReference w:type="default" r:id="rId8" />
+          <w:footerReference w:type="default" r:id="rId7" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
@@ -215,7 +214,7 @@
           <w:noProof />
         </w:rPr>
         <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
-          <w:footerReference w:type="default" r:id="rId9" />
+          <w:footerReference w:type="default" r:id="rId8" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -308,7 +307,7 @@
           <w:noProof />
         </w:rPr>
         <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
-          <w:footerReference w:type="default" r:id="rId10" />
+          <w:footerReference w:type="default" r:id="rId9" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -332,7 +331,6 @@
         <w:t>General Overview</w:t>
       </w:r>
     </w:p>
-
     <w:p w14:paraId="1238F34B" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
