@@ -22,26 +22,29 @@ For Developers
 
 _.dotx_ files are _pkzip_ files with a different extension.
 _pkzip_ files are binary, so they don't work well with Git.
+We need the XML contents of the _pkzip_ file expanded to a folder structure to work well with Git.
+
 In order to work on the templates do the following:
 
-1. Use 7-Zip to convert the known folder + _.xml_ structure to a _.dotx_ file.
+1. Create a fresh _.dotx_ file from folder structure.
+   (see below).
 2. Use MS Word to update the template.
-   **NOTE**: Open with drag and drop.
+   **NOTE**: Open the file with drag and drop OR right-click > open.
+   Do NOT use double-click.
    If you open using double-click, MS Word assumes you want to make a document _based_ on the template, not update the template itself.
-3. Use 7-Zip to convert the _.dotx_ back to a folder + _.xml_ structure.
-4. Pretty print the _.xml_.
+3. Convert the single _.dotx_ back to the folder structure.
+   (see below).
 4. Use VS Code to update source control.
 5. Copy the _.dotx_ file to [releases](https://github.com/HarrisburgUniversityPhd/stormdown-docx/releases).
 
 ```{powershell}
-cd "C:/repos/HarrisburgUniversityPhd/stormdown-docx"
-$7z = 'C:/Program Files/7-Zip/7z.exe'
-$name = 'base'
+cd "C:/repos/HarrisburgUniversityPhd/stormdown-docx/templates"
+$policy = get-ExecutionPolicy –Scope Process
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned –Scope Process -Force
+. ../tools/tools.ps1
+Set-ExecutionPolicy -ExecutionPolicy $policy –Scope Process -Force
 
-. $7z a -tzip -mx1 -r "templates/$($name).dotx" "./templates/$name/*.*"
+write-template -name 'base'
 # edit using Word
-rm "templates/$name" -r -force
-. $7z x -y $("-otemplates/$name") "templates/$($name).dotx"
-dir -r "templates/$($name)/*.xml" | % { ([xml](gc -LiteralPath $_ -encoding utf8)).Save($_) }
-dir -r "templates/$($name)/*.rels" | % { ([xml](gc -LiteralPath $_ -encoding utf8)).Save($_) }
+write-folder -name 'base'
 ```
