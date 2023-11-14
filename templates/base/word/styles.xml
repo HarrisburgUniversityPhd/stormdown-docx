@@ -175,7 +175,7 @@
     <w:lsdException w:name="Table Grid" w:uiPriority="39" />
     <w:lsdException w:name="Table Theme" w:semiHidden="1" w:unhideWhenUsed="1" />
     <w:lsdException w:name="Placeholder Text" w:semiHidden="1" />
-    <w:lsdException w:name="No Spacing" w:uiPriority="1" />
+    <w:lsdException w:name="No Spacing" w:uiPriority="1" w:qFormat="1" />
     <w:lsdException w:name="Light Shading" w:uiPriority="60" />
     <w:lsdException w:name="Light List" w:uiPriority="61" />
     <w:lsdException w:name="Light Grid" w:uiPriority="62" />
@@ -398,56 +398,6 @@
   <w:style w:type="paragraph" w:default="1" w:styleId="Normal">
     <w:name w:val="Normal" />
     <w:qFormat />
-    <w:rsid w:val="00EC6F36" />
-    <w:pPr>
-      <w:spacing w:line="240" w:lineRule="auto" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:hAnsi="CMU Serif" />
-      <w:sz w:val="28" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Heading1">
-    <w:name w:val="heading 1" />
-    <w:basedOn w:val="Normal" />
-    <w:link w:val="Heading1Char" />
-    <w:uiPriority w:val="9" />
-    <w:qFormat />
-    <w:rsid w:val="004169FC" />
-    <w:pPr>
-      <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" />
-      <w:outlineLvl w:val="0" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:eastAsia="Times New Roman" w:cs="Times New Roman" />
-      <w:b />
-      <w:bCs />
-      <w:kern w:val="36" />
-      <w:sz w:val="36" />
-      <w:szCs w:val="48" />
-      <w14:ligatures w14:val="none" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Heading2">
-    <w:name w:val="heading 2" />
-    <w:basedOn w:val="Normal" />
-    <w:link w:val="Heading2Char" />
-    <w:uiPriority w:val="9" />
-    <w:qFormat />
-    <w:rsid w:val="004F5FCC" />
-    <w:pPr>
-      <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" />
-      <w:outlineLvl w:val="1" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" />
-      <w:b />
-      <w:bCs />
-      <w:kern w:val="0" />
-      <w:sz w:val="36" />
-      <w:szCs w:val="36" />
-      <w14:ligatures w14:val="none" />
-    </w:rPr>
   </w:style>
   <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
     <w:name w:val="Default Paragraph Font" />
@@ -476,237 +426,19 @@
     <w:semiHidden />
     <w:unhideWhenUsed />
   </w:style>
-  <w:style w:type="character" w:customStyle="1" w:styleId="Heading1Char">
-    <w:name w:val="Heading 1 Char" />
-    <w:basedOn w:val="DefaultParagraphFont" />
-    <w:link w:val="Heading1" />
-    <w:uiPriority w:val="9" />
-    <w:rsid w:val="004169FC" />
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:eastAsia="Times New Roman" w:hAnsi="CMU Serif" w:cs="Times New Roman" />
-      <w:b />
-      <w:bCs />
-      <w:kern w:val="36" />
-      <w:sz w:val="36" />
-      <w:szCs w:val="48" />
-      <w14:ligatures w14:val="none" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="character" w:customStyle="1" w:styleId="Heading2Char">
-    <w:name w:val="Heading 2 Char" />
-    <w:basedOn w:val="DefaultParagraphFont" />
-    <w:link w:val="Heading2" />
-    <w:uiPriority w:val="9" />
-    <w:rsid w:val="004F5FCC" />
-    <w:rPr>
-      <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" />
-      <w:b />
-      <w:bCs />
-      <w:kern w:val="0" />
-      <w:sz w:val="36" />
-      <w:szCs w:val="36" />
-      <w14:ligatures w14:val="none" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="NormalWeb">
-    <w:name w:val="Normal (Web)" />
-    <w:basedOn w:val="Normal" />
-    <w:uiPriority w:val="99" />
-    <w:semiHidden />
-    <w:unhideWhenUsed />
-    <w:rsid w:val="004F5FCC" />
-    <w:pPr>
-      <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" />
-      <w:kern w:val="0" />
-      <w:sz w:val="24" />
-      <w:szCs w:val="24" />
-      <w14:ligatures w14:val="none" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Title">
-    <w:name w:val="Title" />
-    <w:basedOn w:val="Normal" />
-    <w:next w:val="Normal" />
-    <w:link w:val="TitleChar" />
-    <w:uiPriority w:val="10" />
-    <w:qFormat />
-    <w:rsid w:val="004010ED" />
-    <w:pPr>
-      <w:spacing w:after="0" />
-      <w:contextualSpacing />
-      <w:jc w:val="center" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi" />
-      <w:b />
-      <w:spacing w:val="-10" />
-      <w:kern w:val="28" />
-      <w:sz w:val="56" />
-      <w:szCs w:val="56" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="character" w:customStyle="1" w:styleId="TitleChar">
-    <w:name w:val="Title Char" />
-    <w:basedOn w:val="DefaultParagraphFont" />
-    <w:link w:val="Title" />
-    <w:uiPriority w:val="10" />
-    <w:rsid w:val="004010ED" />
-    <w:rPr>
-      <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi" />
-      <w:b />
-      <w:spacing w:val="-10" />
-      <w:kern w:val="28" />
-      <w:sz w:val="56" />
-      <w:szCs w:val="56" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Subtitle">
-    <w:name w:val="Subtitle" />
-    <w:basedOn w:val="Normal" />
-    <w:next w:val="Normal" />
-    <w:link w:val="SubtitleChar" />
-    <w:uiPriority w:val="11" />
-    <w:qFormat />
-    <w:rsid w:val="004010ED" />
-    <w:pPr>
-      <w:numPr>
-        <w:ilvl w:val="1" />
-      </w:numPr>
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:eastAsiaTheme="minorEastAsia" />
-      <w:color w:val="5A5A5A" w:themeColor="text1" w:themeTint="A5" />
-      <w:spacing w:val="15" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="character" w:customStyle="1" w:styleId="SubtitleChar">
-    <w:name w:val="Subtitle Char" />
-    <w:basedOn w:val="DefaultParagraphFont" />
-    <w:link w:val="Subtitle" />
-    <w:uiPriority w:val="11" />
-    <w:rsid w:val="004010ED" />
-    <w:rPr>
-      <w:rFonts w:eastAsiaTheme="minorEastAsia" />
-      <w:color w:val="5A5A5A" w:themeColor="text1" w:themeTint="A5" />
-      <w:spacing w:val="15" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="NoSpacing">
-    <w:name w:val="No Spacing" />
-    <w:uiPriority w:val="1" />
-    <w:rsid w:val="004169FC" />
-    <w:pPr>
-      <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:hAnsi="CMU Serif" />
-      <w:sz w:val="28" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="TOCHeading">
-    <w:name w:val="TOC Heading" />
-    <w:basedOn w:val="Heading1" />
-    <w:next w:val="Normal" />
-    <w:uiPriority w:val="39" />
-    <w:unhideWhenUsed />
-    <w:qFormat />
-    <w:rsid w:val="00EC6F36" />
-    <w:pPr>
-      <w:keepNext />
-      <w:keepLines />
-      <w:spacing w:before="240" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="259" w:lineRule="auto" />
-      <w:outlineLvl w:val="9" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi" />
-      <w:b w:val="0" />
-      <w:bCs w:val="0" />
-      <w:color w:val="2F5496" w:themeColor="accent1" w:themeShade="BF" />
-      <w:kern w:val="0" />
-      <w:sz w:val="32" />
-      <w:szCs w:val="32" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="TOC1">
-    <w:name w:val="toc 1" />
-    <w:basedOn w:val="Normal" />
-    <w:next w:val="Normal" />
-    <w:autoRedefine />
-    <w:uiPriority w:val="39" />
-    <w:unhideWhenUsed />
-    <w:rsid w:val="00EC6F36" />
-    <w:pPr>
-      <w:spacing w:after="100" />
-    </w:pPr>
-  </w:style>
-  <w:style w:type="character" w:styleId="Hyperlink">
-    <w:name w:val="Hyperlink" />
-    <w:basedOn w:val="DefaultParagraphFont" />
-    <w:uiPriority w:val="99" />
-    <w:unhideWhenUsed />
-    <w:rsid w:val="00EC6F36" />
-    <w:rPr>
-      <w:color w:val="0563C1" w:themeColor="hyperlink" />
-      <w:u w:val="single" />
-    </w:rPr>
-  </w:style>
-  <w:style w:type="table" w:styleId="TableGrid">
-    <w:name w:val="Table Grid" />
-    <w:basedOn w:val="TableNormal" />
-    <w:uiPriority w:val="39" />
-    <w:rsid w:val="00D11CE7" />
-    <w:pPr>
-      <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
-    </w:pPr>
-    <w:tblPr>
-      <w:tblBorders>
-        <w:top w:val="single" w:sz="4" w:space="0" w:color="auto" />
-        <w:left w:val="single" w:sz="4" w:space="0" w:color="auto" />
-        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto" />
-        <w:right w:val="single" w:sz="4" w:space="0" w:color="auto" />
-        <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto" />
-        <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto" />
-      </w:tblBorders>
-    </w:tblPr>
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Bibliography">
-    <w:name w:val="Bibliography" />
-    <w:basedOn w:val="Normal" />
-    <w:next w:val="Normal" />
-    <w:uiPriority w:val="37" />
-    <w:unhideWhenUsed />
-    <w:rsid w:val="00C2018E" />
-  </w:style>
-  <w:style w:type="paragraph" w:styleId="Revision">
-    <w:name w:val="Revision" />
-    <w:hidden />
-    <w:uiPriority w:val="99" />
-    <w:semiHidden />
-    <w:rsid w:val="00BF1EC8" />
-    <w:pPr>
-      <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
-    </w:pPr>
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:hAnsi="CMU Serif" />
-      <w:sz w:val="28" />
-    </w:rPr>
-  </w:style>
   <w:style w:type="paragraph" w:styleId="Header">
     <w:name w:val="header" />
     <w:basedOn w:val="Normal" />
     <w:link w:val="HeaderChar" />
     <w:uiPriority w:val="99" />
     <w:unhideWhenUsed />
-    <w:rsid w:val="00FB0A44" />
+    <w:rsid w:val="001D7F82" />
     <w:pPr>
       <w:tabs>
         <w:tab w:val="center" w:pos="4680" />
         <w:tab w:val="right" w:pos="9360" />
       </w:tabs>
-      <w:spacing w:after="0" />
+      <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
     </w:pPr>
   </w:style>
   <w:style w:type="character" w:customStyle="1" w:styleId="HeaderChar">
@@ -714,11 +446,7 @@
     <w:basedOn w:val="DefaultParagraphFont" />
     <w:link w:val="Header" />
     <w:uiPriority w:val="99" />
-    <w:rsid w:val="00FB0A44" />
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:hAnsi="CMU Serif" />
-      <w:sz w:val="28" />
-    </w:rPr>
+    <w:rsid w:val="001D7F82" />
   </w:style>
   <w:style w:type="paragraph" w:styleId="Footer">
     <w:name w:val="footer" />
@@ -726,13 +454,13 @@
     <w:link w:val="FooterChar" />
     <w:uiPriority w:val="99" />
     <w:unhideWhenUsed />
-    <w:rsid w:val="00FB0A44" />
+    <w:rsid w:val="001D7F82" />
     <w:pPr>
       <w:tabs>
         <w:tab w:val="center" w:pos="4680" />
         <w:tab w:val="right" w:pos="9360" />
       </w:tabs>
-      <w:spacing w:after="0" />
+      <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
     </w:pPr>
   </w:style>
   <w:style w:type="character" w:customStyle="1" w:styleId="FooterChar">
@@ -740,10 +468,17 @@
     <w:basedOn w:val="DefaultParagraphFont" />
     <w:link w:val="Footer" />
     <w:uiPriority w:val="99" />
-    <w:rsid w:val="00FB0A44" />
-    <w:rPr>
-      <w:rFonts w:ascii="CMU Serif" w:hAnsi="CMU Serif" />
-      <w:sz w:val="28" />
-    </w:rPr>
+    <w:rsid w:val="001D7F82" />
+  </w:style>
+  <w:style w:type="paragraph" w:styleId="ListParagraph">
+    <w:name w:val="List Paragraph" />
+    <w:basedOn w:val="Normal" />
+    <w:uiPriority w:val="34" />
+    <w:qFormat />
+    <w:rsid w:val="001D7F82" />
+    <w:pPr>
+      <w:ind w:left="720" />
+      <w:contextualSpacing />
+    </w:pPr>
   </w:style>
 </w:styles>
