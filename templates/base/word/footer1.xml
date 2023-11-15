@@ -14,7 +14,7 @@
       </w:rPr>
     </w:sdtEndPr>
     <w:sdtContent>
-      <w:p w14:paraId="091886FD" w14:textId="75647E01" w:rsidR="005D3600" w:rsidRDefault="005D3600">
+      <w:p w14:paraId="091886FD" w14:textId="75647E01">
         <w:pPr>
           <w:pStyle w:val="Footer" />
         </w:pPr>
@@ -42,7 +42,7 @@
       </w:p>
     </w:sdtContent>
   </w:sdt>
-  <w:p w14:paraId="7DE45D88" w14:textId="77777777" w:rsidR="005D3600" w:rsidRDefault="005D3600">
+  <w:p w14:paraId="7DE45D88" w14:textId="77777777">
     <w:pPr>
       <w:pStyle w:val="Footer" />
     </w:pPr>

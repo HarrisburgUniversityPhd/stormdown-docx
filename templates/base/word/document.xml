@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
   <w:body>
-    <w:p w14:paraId="054AC6D6" w14:textId="47D0DE65" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="054AC6D6" w14:textId="53869780" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -14,7 +14,7 @@
         <w:t>My Dissertation Title</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="20BAA31C" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="20BAA31C" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -27,7 +27,7 @@
         <w:t>My Subtitle</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="67E72019" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="67E72019" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -40,7 +40,7 @@
         <w:t>By</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="28C74716" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="28C74716" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -53,7 +53,7 @@
         <w:t>My Name</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2B257BEE" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="2B257BEE" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -66,7 +66,7 @@
         <w:t>A thesis submitted to</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="58101075" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="58101075" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -79,7 +79,7 @@
         <w:t>Harrisburg University of Science and Technology</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7B543EC7" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="7B543EC7" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -92,7 +92,7 @@
         <w:t>for the degree of</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="69F9562C" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="69F9562C" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -105,7 +105,7 @@
         <w:t>Doctor of Philosophy</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="616692F1" w14:textId="61AA2F87" w:rsidR="005E5127" w:rsidRDefault="005A3433" w:rsidP="005E5127">
+    <w:p w14:paraId="616692F1" w14:textId="61AA2F87" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -158,7 +158,7 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="37200C7B" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="37200C7B" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -171,7 +171,7 @@
         <w:t>Department of Analytics</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="638B97DC" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="638B97DC" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -184,7 +184,7 @@
         <w:t>Harrisburg University of Science and Technology</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="633188DC" w14:textId="7D4DB034" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="633188DC" w14:textId="7D4DB034" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -197,12 +197,12 @@
         <w:t>November 2023</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="53248820" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="53248820" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:footerReference w:type="even" r:id="rId8" />
           <w:footerReference w:type="default" r:id="rId9" />
           <w:pgSz w:w="12240" w:h="15840" />
@@ -212,7 +212,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="007E3E1B" w14:textId="74949F19" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="007E3E1B" w14:textId="74949F19" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -226,7 +226,7 @@
         <w:t>© Copyright by My Name, 2023</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2005E94D" w14:textId="426695FB" w:rsidR="00CB7722" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="2005E94D" w14:textId="426695FB" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -239,12 +239,12 @@
         <w:t>All Rights Reserved</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3B87218C" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="3B87218C" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
@@ -252,7 +252,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="1DD400A6" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="1DD400A6" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -266,7 +266,7 @@
         <w:t>Abstract</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4B50EDAB" w14:textId="01B40F92" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="00CB7722">
+    <w:p w14:paraId="4B50EDAB" w14:textId="01B40F92" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -279,12 +279,12 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4A1EBD3E" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="4A1EBD3E" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
           <w:cols w:space="720" />
@@ -292,7 +292,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="7B05F21A" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="7B05F21A" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -306,7 +306,7 @@
         <w:t>Dedication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0E746C22" w14:textId="2993302A" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="00CB7722">
+    <w:p w14:paraId="0E746C22" w14:textId="2993302A" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -319,12 +319,12 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="184ED502" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="184ED502" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -333,7 +333,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="313F2308" w14:textId="24BE3AB5" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="313F2308" w14:textId="24BE3AB5" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -347,7 +347,7 @@
         <w:t>Ph.D. COMMITTEE APPROVAL</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5E2FB415" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="5E2FB415" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -360,14 +360,14 @@
         <w:t>To the Faculty of Harrisburg University of Science and Technology:</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="671C8316" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="671C8316" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="4BDDCDB1" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="4BDDCDB1" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -380,42 +380,42 @@
         <w:t>The members of the Committee appointed to examine the dissertation of My Name find it satisfactory and recommend that it be accepted.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1728CBF5" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="1728CBF5" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="13252284" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="13252284" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="12A9D163" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="12A9D163" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="17D2759F" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="17D2759F" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="7FF70024" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="7FF70024" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="41CD6BCD" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="41CD6BCD" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -428,21 +428,21 @@
         <w:t>Chair’s Name, Ph.D., Chair</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="00AD61BB" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="00AD61BB" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="168AF6A3" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="168AF6A3" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="6C248B6D" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="6C248B6D" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -455,21 +455,21 @@
         <w:t>Comity member 1, Ph.D.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5105D37D" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="5105D37D" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="678F4071" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="678F4071" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="7DA82DAD" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="7DA82DAD" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -482,21 +482,21 @@
         <w:t>Comity member 2, Ph.D.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="37ED4500" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="37ED4500" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="247CF448" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="247CF448" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="68B43B7B" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="68B43B7B" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -509,26 +509,26 @@
         <w:t>Comity member 3, Ph.D.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="655AC8E7" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="655AC8E7" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="66DA4359" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="66DA4359" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="234E6D45" w14:textId="14C7C907" w:rsidR="00624368" w:rsidRDefault="005E5127" w:rsidP="00CB7722">
+    <w:p w14:paraId="234E6D45" w14:textId="14C7C907" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -543,7 +543,7 @@
         <w:t>Comity member 4, Ph.D.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="37317DC3" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="37317DC3" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -557,7 +557,7 @@
         <w:t>ACCEPTANCE PAGE</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="40C1AAF6" w14:textId="3FE54CF7" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="40C1AAF6" w14:textId="3FE54CF7" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -582,7 +582,7 @@
         <w:t xml:space="preserve"> representative of Harrisburg University of Science and Technology, I have read the thesis of My Name in its final form and have found that (1) its format, citations, and bibliographical style are consistent and acceptable and fulfill university and department style requirements; (2) its illustrative materials including figures, tables, and charts are in place; and (3) the final manuscript is satisfactory to the graduate committee and is ready for submission to the university library.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="60C870AA" w14:textId="77777777" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="60C870AA" w14:textId="77777777" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -607,7 +607,7 @@
         <w:br />
       </w:r>
     </w:p>
-    <w:p w14:paraId="049706AC" w14:textId="339D05E4" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="049706AC" w14:textId="339D05E4" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -640,7 +640,7 @@
         <w:t>Harrisburg University of Science and Technology</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="30E7B0F4" w14:textId="77777777" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="30E7B0F4" w14:textId="77777777" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -653,7 +653,7 @@
         <w:br />
       </w:r>
     </w:p>
-    <w:p w14:paraId="437C4A85" w14:textId="77777777" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="437C4A85" w14:textId="77777777" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -680,7 +680,7 @@
         <w:t>Harrisburg University of Science and Technology</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1243ADE8" w14:textId="77777777" w:rsidR="005E5127" w:rsidRPr="005E5127" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="1243ADE8" w14:textId="77777777" w:rsidRPr="005E5127" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -693,12 +693,12 @@
         <w:br />
       </w:r>
     </w:p>
-    <w:p w14:paraId="12C2A4BE" w14:textId="78409C6D" w:rsidR="00624368" w:rsidRPr="00E91101" w:rsidRDefault="005E5127" w:rsidP="00E91101">
+    <w:p w14:paraId="12C2A4BE" w14:textId="78409C6D" w:rsidRPr="00E91101" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidRPr="00E91101" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidRPr="00E91101" w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -739,7 +739,7 @@
         <w:t>Harrisburg University of Science and Technology</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5BC3A26C" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="5BC3A26C" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -753,7 +753,7 @@
         <w:t>Acknowledgements</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="634242C4" w14:textId="744C593E" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="00CB7722">
+    <w:p w14:paraId="634242C4" w14:textId="744C593E" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -766,12 +766,12 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5036DB19" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="5036DB19" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -780,12 +780,12 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="63803242" w14:textId="4EBC1D9D" w:rsidR="00624368" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="63803242" w14:textId="4EBC1D9D" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:footerReference w:type="default" r:id="rId10" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
@@ -803,12 +803,12 @@
         <w:t xml:space="preserve">Table of Contence </w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4815088F" w14:textId="6771AD0E" w:rsidR="00624368" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="4815088F" w14:textId="6771AD0E" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -822,45 +822,15 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>L</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve">ist </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>o</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve">f </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>T</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>ables</w:t>
+        <w:t>List of Tables</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="69F63614" w14:textId="7C7FE2E9" w:rsidR="00624368" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="69F63614" w14:textId="7C7FE2E9" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -874,28 +844,10 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>L</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve">ist of </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>F</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>igures</w:t>
+        <w:t>List of Figures</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4A6679D9" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00CB7722" w:rsidP="005E5127">
+    <w:p w14:paraId="4A6679D9" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -906,16 +858,10 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>Intro</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>duction</w:t>
+        <w:t>Introduction</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="07B5BCE9" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="07B5BCE9" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -928,7 +874,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="621CF176" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="621CF176" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -941,7 +887,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0B682C43" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="0B682C43" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -954,7 +900,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3676CB80" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3676CB80" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -967,7 +913,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0669BA15" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="0669BA15" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -980,7 +926,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="21145D2C" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="21145D2C" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -993,7 +939,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="25471489" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="25471489" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1006,7 +952,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="32EBA469" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="32EBA469" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1019,7 +965,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="150F256A" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="150F256A" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1032,7 +978,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="011B221D" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="011B221D" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1045,7 +991,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="08F85468" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="08F85468" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1058,7 +1004,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="39CAD128" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="39CAD128" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1071,7 +1017,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="34C6B36D" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="34C6B36D" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1084,7 +1030,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="45DE2E1F" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="45DE2E1F" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1098,7 +1044,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="779C26B6" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="779C26B6" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1111,7 +1057,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3C8610F3" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3C8610F3" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1124,7 +1070,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7E45056D" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="7E45056D" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1137,7 +1083,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="38EE2DEB" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="38EE2DEB" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1150,7 +1096,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="24646C03" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="24646C03" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1163,7 +1109,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3B906830" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3B906830" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1176,7 +1122,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2DF9BCA6" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="2DF9BCA6" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1189,7 +1135,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="60C70385" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="60C70385" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1202,7 +1148,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4DDEEFA4" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="4DDEEFA4" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1215,7 +1161,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7C9C36BF" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="7C9C36BF" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1228,7 +1174,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0FED4B3B" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="0FED4B3B" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1241,7 +1187,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1D6BC411" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="1D6BC411" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1254,7 +1200,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4A4D8B67" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="4A4D8B67" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1268,7 +1214,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1BE9D659" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="1BE9D659" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1281,7 +1227,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="74D0C555" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="74D0C555" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1294,12 +1240,12 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="25859F31" w14:textId="082F4624" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="25859F31" w14:textId="082F4624" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00E91101" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:footerReference w:type="default" r:id="rId11" />
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
@@ -1316,7 +1262,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="312463D3" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="312463D3" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1330,7 +1276,7 @@
         <w:t>General Overview</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2F173676" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="2F173676" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1343,7 +1289,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="28912702" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="28912702" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1356,7 +1302,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="63923EE8" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="63923EE8" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1369,7 +1315,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7C84398C" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="7C84398C" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1382,7 +1328,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="77A0A5F1" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="77A0A5F1" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1395,7 +1341,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="690B18F1" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="690B18F1" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1408,7 +1354,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="69C8C245" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="69C8C245" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1421,7 +1367,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="55D1C069" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="55D1C069" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1434,7 +1380,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6ACF52D6" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="6ACF52D6" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1447,7 +1393,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2EA9BBA7" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="2EA9BBA7" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1460,7 +1406,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4090BC53" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="4090BC53" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1473,7 +1419,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0B95A102" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="0B95A102" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1486,7 +1432,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="064E8FF0" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="064E8FF0" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1499,7 +1445,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0EF4A53C" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="0EF4A53C" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1513,7 +1459,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5A73A75E" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="5A73A75E" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1526,7 +1472,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="21E8A04F" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="21E8A04F" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1539,7 +1485,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="745AC466" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="745AC466" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1552,7 +1498,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="592D64C1" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="592D64C1" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1565,7 +1511,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3D7F28F0" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3D7F28F0" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1578,7 +1524,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="52525D72" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="52525D72" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1591,7 +1537,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3CD7CB96" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3CD7CB96" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1604,7 +1550,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3DAA05EB" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3DAA05EB" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1617,7 +1563,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3EB1ECB3" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3EB1ECB3" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1630,7 +1576,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4AD2712F" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="4AD2712F" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1643,7 +1589,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="064CEFF8" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="064CEFF8" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1656,7 +1602,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="509EB30B" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="509EB30B" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1669,7 +1615,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="73477E71" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="73477E71" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1683,7 +1629,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="18CA9FE7" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="18CA9FE7" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1696,7 +1642,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3065154B" w14:textId="77777777" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="3065154B" w14:textId="77777777" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1709,12 +1655,12 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1238F34B" w14:textId="30EEB6D0" w:rsidR="00E91101" w:rsidRDefault="00E91101" w:rsidP="00E91101">
+    <w:p w14:paraId="1238F34B" w14:textId="30EEB6D0" w:rsidP="00E91101">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00E91101" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -1729,7 +1675,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2BB775F8" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="2BB775F8" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1740,16 +1686,10 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>Research Statu</w:t>
-      </w:r>
-      <w:r w:rsidR="005E5127">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>s</w:t>
+        <w:t>Research Status</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="39FC38F7" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="39FC38F7" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1762,14 +1702,14 @@
         <w:t>This chapter details where you are going to publish your portfolio works. You need the working name, targeted publisher, current status, and timeline.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1C223D97" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="1C223D97" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="68A185DF" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="68A185DF" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1782,14 +1722,14 @@
         <w:t>By its nature, this chapter is very short.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1799A8CF" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="1799A8CF" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="7CEDDD25" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="7CEDDD25" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1802,14 +1742,14 @@
         <w:t>The following sections detail the targeted publications.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4C49CD60" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="4C49CD60" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="4658BC4F" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="4658BC4F" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1822,7 +1762,7 @@
         <w:t>"My 1st Publication", Chapter 4</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="553CF3C5" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="553CF3C5" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1835,7 +1775,7 @@
         <w:t>"My 2nd Publication", Chapter 5</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1E60BAF0" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="1E60BAF0" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1848,19 +1788,19 @@
         <w:t>"My 3rd Publication", Chapter 6</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7FF05204" w14:textId="77777777" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="7FF05204" w14:textId="77777777" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="2DDA4B94" w14:textId="41875292" w:rsidR="005E5127" w:rsidRDefault="005E5127" w:rsidP="005E5127">
+    <w:p w14:paraId="2DDA4B94" w14:textId="41875292" w:rsidP="005E5127">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="005E5127" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -1875,7 +1815,7 @@
         <w:t>Chapter 4 will be submitted to the Data2 for consideration in their January Issue. Chapter 5 will be submitted to the Data3 for consideration in their January Issue. Chapter 6 will be submitted to the Data4 for consideration in their January Issue.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="06784651" w14:textId="020393E9" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="06784651" w14:textId="020393E9" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1889,7 +1829,7 @@
         <w:t>My 1st Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3DDF5A8A" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="3DDF5A8A" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1902,7 +1842,7 @@
         <w:t>Originally titled: My 1st Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0D2BFA4F" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0D2BFA4F" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1915,7 +1855,7 @@
         <w:t>by My Name, My co-authors</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6DC3AE4F" w14:textId="0883E936" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6DC3AE4F" w14:textId="0883E936" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1928,7 +1868,7 @@
         <w:t>Abstract</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0702FD9F" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0702FD9F" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1941,7 +1881,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5AFFB76B" w14:textId="26F2094A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5AFFB76B" w14:textId="26F2094A" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1954,7 +1894,7 @@
         <w:t>Introduction</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1F2C74A4" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1F2C74A4" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1967,7 +1907,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7FD2641E" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7FD2641E" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1980,7 +1920,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="12E11187" w14:textId="4557C1A4" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="12E11187" w14:textId="4557C1A4" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -1993,7 +1933,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="59CE1150" w14:textId="6C866939" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="59CE1150" w14:textId="6C866939" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -2006,97 +1946,7 @@
         <w:t>Literature Review</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="403057DE" w14:textId="024A8D2B" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="0B74A6F5" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="1535BE41" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="49D06E66" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="388793BD" w14:textId="5C280E07" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="533BB9CE" w14:textId="72D07E9B" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
-      <w:pPr>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Method and Materials</w:t>
-      </w:r>
-    </w:p>
-    <w:p w14:paraId="3553F206" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="403057DE" w14:textId="024A8D2B" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -2109,7 +1959,85 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5C39E05D" w14:textId="386E95B1" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0B74A6F5" w14:textId="77777777" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1535BE41" w14:textId="77777777" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49D06E66" w14:textId="77777777" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="388793BD" w14:textId="5C280E07" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="533BB9CE" w14:textId="72D07E9B" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Method and Materials</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3553F206" w14:textId="77777777" w:rsidP="005A3433">
+      <w:pPr>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C39E05D" w14:textId="386E95B1" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -2122,7 +2050,7 @@
         <w:t>Results</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4F02A74D" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4F02A74D" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -2148,12 +2076,12 @@
         <w:gridCol w:w="2518" />
         <w:gridCol w:w="2518" />
       </w:tblGrid>
-      <w:tr w:rsidR="005A3433" w14:paraId="17CCBC2B" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="17CCBC2B" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3A67AAC9" w14:textId="08DADB38" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3A67AAC9" w14:textId="08DADB38" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2168,7 +2096,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="360FA701" w14:textId="4F18A4F2" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="360FA701" w14:textId="4F18A4F2" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2183,7 +2111,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="11869DDE" w14:textId="7F7CBB31" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="11869DDE" w14:textId="7F7CBB31" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2198,7 +2126,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="74631294" w14:textId="6F263A7D" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="74631294" w14:textId="6F263A7D" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2210,12 +2138,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="1C8BDFBB" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="1C8BDFBB" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="245B6F9A" w14:textId="289EB8A2" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="245B6F9A" w14:textId="289EB8A2" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2230,7 +2158,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="62D52057" w14:textId="6C1DF5FE" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="62D52057" w14:textId="6C1DF5FE" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2245,7 +2173,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="254688B1" w14:textId="5472F4A1" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="254688B1" w14:textId="5472F4A1" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2260,7 +2188,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="1DF6B509" w14:textId="591F98EE" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="1DF6B509" w14:textId="591F98EE" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2272,12 +2200,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="2C926C60" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="2C926C60" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3D12CB05" w14:textId="2C3AD780" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3D12CB05" w14:textId="2C3AD780" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2292,7 +2220,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="1503609A" w14:textId="686A18B2" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="1503609A" w14:textId="686A18B2" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2307,7 +2235,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3D9DA8FF" w14:textId="494264A4" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3D9DA8FF" w14:textId="494264A4" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2322,7 +2250,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="64690930" w14:textId="131BCAB6" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="64690930" w14:textId="131BCAB6" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2334,12 +2262,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="38D26CA7" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="38D26CA7" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="085474F9" w14:textId="2C3C6782" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="085474F9" w14:textId="2C3C6782" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2354,7 +2282,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="2B181C9F" w14:textId="245BB354" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="2B181C9F" w14:textId="245BB354" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2369,7 +2297,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="570EC106" w14:textId="6CFB73D5" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="570EC106" w14:textId="6CFB73D5" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2384,7 +2312,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6C0FE509" w14:textId="059795D0" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="6C0FE509" w14:textId="059795D0" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2396,12 +2324,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="64D9D5A1" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="64D9D5A1" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7B9F092C" w14:textId="235B018A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7B9F092C" w14:textId="235B018A" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2416,7 +2344,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="1F2FDA44" w14:textId="7556CEB7" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="1F2FDA44" w14:textId="7556CEB7" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2431,7 +2359,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="09D53128" w14:textId="1E453C8B" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="09D53128" w14:textId="1E453C8B" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2446,7 +2374,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="52CB85D3" w14:textId="61304FED" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="52CB85D3" w14:textId="61304FED" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2458,12 +2386,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="6D4E5D7E" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="6D4E5D7E" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="13E5637F" w14:textId="1577101E" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="13E5637F" w14:textId="1577101E" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2478,7 +2406,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6226C917" w14:textId="13B1FA49" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="6226C917" w14:textId="13B1FA49" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2493,7 +2421,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="04FD5BEA" w14:textId="2DDB7C84" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="04FD5BEA" w14:textId="2DDB7C84" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2508,7 +2436,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="06BBCA59" w14:textId="58449E0E" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="06BBCA59" w14:textId="58449E0E" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2520,12 +2448,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="691A969A" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="691A969A" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7265AE92" w14:textId="5B707193" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7265AE92" w14:textId="5B707193" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2540,7 +2468,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="41E7045C" w14:textId="03C2033A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="41E7045C" w14:textId="03C2033A" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2555,7 +2483,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="569F17DC" w14:textId="45026DFC" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="569F17DC" w14:textId="45026DFC" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2570,7 +2498,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="306335FA" w14:textId="094232F1" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="306335FA" w14:textId="094232F1" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2582,12 +2510,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="42282A5D" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="42282A5D" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3C108988" w14:textId="4BA90B96" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3C108988" w14:textId="4BA90B96" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2602,7 +2530,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6178FC59" w14:textId="2F2E50A3" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="6178FC59" w14:textId="2F2E50A3" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2617,7 +2545,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7975C948" w14:textId="1ED83A35" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7975C948" w14:textId="1ED83A35" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2632,7 +2560,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="36B7BF06" w14:textId="683DD78C" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="36B7BF06" w14:textId="683DD78C" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2644,12 +2572,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="6C9DACB4" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="6C9DACB4" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="5FC7A977" w14:textId="2782FCF6" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="5FC7A977" w14:textId="2782FCF6" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2664,7 +2592,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="09BD12E0" w14:textId="672F40CE" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="09BD12E0" w14:textId="672F40CE" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2679,7 +2607,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3589CA48" w14:textId="1AD61E11" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3589CA48" w14:textId="1AD61E11" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2694,7 +2622,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="0221FAC3" w14:textId="234C35FD" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="0221FAC3" w14:textId="234C35FD" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2707,14 +2635,14 @@
         </w:tc>
       </w:tr>
     </w:tbl>
-    <w:p w14:paraId="5224B6C1" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5224B6C1" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="08ECA80B" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="08ECA80B" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -2739,12 +2667,12 @@
         <w:gridCol w:w="2518" />
         <w:gridCol w:w="2518" />
       </w:tblGrid>
-      <w:tr w:rsidR="005A3433" w14:paraId="588D2515" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="588D2515" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="043D4935" w14:textId="5AFD4175" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="043D4935" w14:textId="5AFD4175" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2759,7 +2687,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3E2E2FF3" w14:textId="40C51213" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3E2E2FF3" w14:textId="40C51213" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2774,7 +2702,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="0CF251E0" w14:textId="6353444F" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="0CF251E0" w14:textId="6353444F" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2789,7 +2717,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="473BB49F" w14:textId="0C7069A3" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="473BB49F" w14:textId="0C7069A3" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2801,12 +2729,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="096A4C41" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="096A4C41" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="39D470FE" w14:textId="4F914B03" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="39D470FE" w14:textId="4F914B03" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2821,7 +2749,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="25FF9C5D" w14:textId="13F77FCB" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="25FF9C5D" w14:textId="13F77FCB" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2836,7 +2764,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="5A1E5853" w14:textId="18EE5016" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="5A1E5853" w14:textId="18EE5016" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2851,7 +2779,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="592F5F5D" w14:textId="09831E75" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="592F5F5D" w14:textId="09831E75" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2863,12 +2791,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="6FCB1698" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="6FCB1698" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4DFC0871" w14:textId="06342667" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="4DFC0871" w14:textId="06342667" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2883,7 +2811,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="58DCC50B" w14:textId="19B2043A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="58DCC50B" w14:textId="19B2043A" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2898,7 +2826,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="288029B7" w14:textId="5D58F17F" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="288029B7" w14:textId="5D58F17F" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2913,7 +2841,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="57CD087A" w14:textId="38357977" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="57CD087A" w14:textId="38357977" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2925,12 +2853,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="3AF7DB6E" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="3AF7DB6E" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="5D2EC319" w14:textId="7681AC62" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="5D2EC319" w14:textId="7681AC62" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2945,7 +2873,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="65FF75EA" w14:textId="67BF29DB" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="65FF75EA" w14:textId="67BF29DB" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2960,7 +2888,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="145B7810" w14:textId="2BB592F2" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="145B7810" w14:textId="2BB592F2" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2975,7 +2903,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="1419C06D" w14:textId="6FD32654" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="1419C06D" w14:textId="6FD32654" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -2987,12 +2915,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="3435F78B" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="3435F78B" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="51A9EFE3" w14:textId="12724B3F" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="51A9EFE3" w14:textId="12724B3F" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3007,7 +2935,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7F64CB00" w14:textId="45BD6490" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7F64CB00" w14:textId="45BD6490" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3022,7 +2950,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="58CCC2A6" w14:textId="0DC7B664" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="58CCC2A6" w14:textId="0DC7B664" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3037,7 +2965,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="425439B0" w14:textId="41ACD825" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="425439B0" w14:textId="41ACD825" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3049,12 +2977,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="37A2BB4A" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="37A2BB4A" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="15666AD6" w14:textId="1EECD7AA" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="15666AD6" w14:textId="1EECD7AA" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3069,7 +2997,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="151D5755" w14:textId="7F1A4E86" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="151D5755" w14:textId="7F1A4E86" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3084,7 +3012,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="21AC0536" w14:textId="2F436C9B" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="21AC0536" w14:textId="2F436C9B" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3099,7 +3027,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="5F50BE55" w14:textId="48AA4EF3" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="5F50BE55" w14:textId="48AA4EF3" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3111,12 +3039,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="584F3711" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="584F3711" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="78F7DBBF" w14:textId="48A3958C" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="78F7DBBF" w14:textId="48A3958C" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3131,7 +3059,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="57B634BB" w14:textId="46ACEA76" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="57B634BB" w14:textId="46ACEA76" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3146,7 +3074,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="0411DE00" w14:textId="72AB7918" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="0411DE00" w14:textId="72AB7918" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3161,7 +3089,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="3C7E6757" w14:textId="375191D1" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="3C7E6757" w14:textId="375191D1" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3173,12 +3101,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="51842BA0" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="51842BA0" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7200656F" w14:textId="4F53E1C1" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7200656F" w14:textId="4F53E1C1" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3193,7 +3121,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="1440407F" w14:textId="6008995B" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="1440407F" w14:textId="6008995B" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3208,7 +3136,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7FF714A3" w14:textId="44F015A5" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="7FF714A3" w14:textId="44F015A5" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3223,7 +3151,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="44DF9C83" w14:textId="497B2FC3" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="44DF9C83" w14:textId="497B2FC3" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3235,12 +3163,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="005A3433" w14:paraId="72CBE099" w14:textId="77777777" w:rsidTr="005A3433">
+      <w:tr w14:paraId="72CBE099" w14:textId="77777777" w:rsidTr="005A3433">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="568A7164" w14:textId="15E416FF" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="568A7164" w14:textId="15E416FF" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3255,7 +3183,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="182CE21F" w14:textId="6A52EF3A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="182CE21F" w14:textId="6A52EF3A" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3270,7 +3198,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="0CEB7C1B" w14:textId="0AB085ED" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="0CEB7C1B" w14:textId="0AB085ED" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3285,7 +3213,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4104DE2B" w14:textId="310E8042" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+          <w:p w14:paraId="4104DE2B" w14:textId="310E8042" w:rsidP="005A3433">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -3298,14 +3226,14 @@
         </w:tc>
       </w:tr>
     </w:tbl>
-    <w:p w14:paraId="70490739" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="70490739" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="21C517BE" w14:textId="638EBC0E" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="21C517BE" w14:textId="638EBC0E" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3318,12 +3246,12 @@
         <w:t>Conclusion</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2A92439C" w14:textId="58A7CCF4" w:rsidR="00624368" w:rsidRDefault="005A3433" w:rsidP="00CB7722">
+    <w:p w14:paraId="2A92439C" w14:textId="58A7CCF4" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -3338,7 +3266,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="65020AEE" w14:textId="35A71851" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="65020AEE" w14:textId="35A71851" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3349,22 +3277,10 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t xml:space="preserve">My </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>2nd</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve"> Publication</w:t>
+        <w:t>My 2nd Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1A6A343D" w14:textId="2F41979F" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1A6A343D" w14:textId="2F41979F" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3374,22 +3290,10 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t xml:space="preserve">Originally titled: My </w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>2nd</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve"> Publication</w:t>
+        <w:t>Originally titled: My 2nd Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7762D196" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7762D196" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3402,7 +3306,7 @@
         <w:t>by My Name, My co-authors</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="250F67FF" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="250F67FF" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3415,7 +3319,7 @@
         <w:t>Abstract</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5B1568E4" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5B1568E4" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3428,7 +3332,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5F65E910" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5F65E910" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3441,7 +3345,7 @@
         <w:t>Introduction</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="63AAFCC7" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="63AAFCC7" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3454,7 +3358,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0647149F" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0647149F" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3467,7 +3371,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="42F8DD81" w14:textId="6FEED966" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="42F8DD81" w14:textId="6FEED966" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3480,7 +3384,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="31B042B3" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="31B042B3" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3493,7 +3397,7 @@
         <w:t>Literature Review</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="51FB8FCA" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="51FB8FCA" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3506,7 +3410,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6E76C15C" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6E76C15C" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3519,7 +3423,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5CE4E80C" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5CE4E80C" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3532,7 +3436,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="54A6F77D" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="54A6F77D" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3545,7 +3449,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="750EF134" w14:textId="24715C2A" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="750EF134" w14:textId="24715C2A" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3558,7 +3462,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3AC80C27" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="3AC80C27" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3571,7 +3475,7 @@
         <w:t>Method and Materials</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="278710DB" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="278710DB" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3584,7 +3488,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="039E6F7D" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="039E6F7D" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3597,7 +3501,7 @@
         <w:t>Results</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7027BE49" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7027BE49" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3611,7 +3515,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3FBBF958" w14:textId="7D55321A" w:rsidR="005A3433" w:rsidRDefault="00AB1D46" w:rsidP="005A3433">
+    <w:p w14:paraId="3FBBF958" w14:textId="7D55321A" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3664,7 +3568,7 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="29598481" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="29598481" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3677,7 +3581,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6A3D130A" w14:textId="32418BCB" w:rsidR="005A3433" w:rsidRDefault="00AB1D46" w:rsidP="005A3433">
+    <w:p w14:paraId="6A3D130A" w14:textId="32418BCB" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3731,7 +3635,7 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="44106017" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="44106017" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3744,12 +3648,12 @@
         <w:t>Conclusion</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="48387F27" w14:textId="2CDD3735" w:rsidR="00624368" w:rsidRDefault="005A3433" w:rsidP="00CB7722">
+    <w:p w14:paraId="48387F27" w14:textId="2CDD3735" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -3764,7 +3668,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="219596B0" w14:textId="4464B91D" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="219596B0" w14:textId="4464B91D" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3778,7 +3682,7 @@
         <w:t>My 3rd Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="02C29D8E" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="02C29D8E" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3791,7 +3695,7 @@
         <w:t>Originally titled: My 3rd Publication</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7F230C3A" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7F230C3A" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3804,7 +3708,7 @@
         <w:t>by My Name, My co-authors</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7E98FD63" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7E98FD63" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3817,7 +3721,7 @@
         <w:t>Abstract</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4E3DBA85" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4E3DBA85" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3830,7 +3734,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="31296E63" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="31296E63" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3843,7 +3747,7 @@
         <w:t>Introduction</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1D7C9F4A" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1D7C9F4A" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3856,7 +3760,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="02068A76" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="02068A76" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3869,7 +3773,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4404B355" w14:textId="4FFA8910" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4404B355" w14:textId="4FFA8910" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3882,7 +3786,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="50F78CC2" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="50F78CC2" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3895,7 +3799,7 @@
         <w:t>Literature Review</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="43DFD521" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="43DFD521" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3908,7 +3812,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5299E674" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5299E674" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3921,7 +3825,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="752ACC60" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="752ACC60" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3934,7 +3838,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="05EF6FB9" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="05EF6FB9" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3947,7 +3851,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="2E379415" w14:textId="4D9DAE99" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="2E379415" w14:textId="4D9DAE99" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3960,7 +3864,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7D0026FB" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7D0026FB" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3973,7 +3877,7 @@
         <w:t>Method and Materials</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="09E45CC7" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="09E45CC7" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3986,7 +3890,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="18C7FFDC" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="18C7FFDC" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -3999,7 +3903,7 @@
         <w:t>Results</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4BAF4BED" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4BAF4BED" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4025,12 +3929,12 @@
         <w:gridCol w:w="2518" />
         <w:gridCol w:w="2518" />
       </w:tblGrid>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="257FAA2A" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="257FAA2A" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="2A6D7C49" w14:textId="78582372" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="2A6D7C49" w14:textId="78582372" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4045,7 +3949,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4545CFFD" w14:textId="6854CC77" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="4545CFFD" w14:textId="6854CC77" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4060,7 +3964,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="22490417" w14:textId="1834DB68" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="22490417" w14:textId="1834DB68" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4075,7 +3979,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="662E9E66" w14:textId="3ED1E705" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="662E9E66" w14:textId="3ED1E705" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4087,12 +3991,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="7EF7E78A" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="7EF7E78A" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="2DAFD172" w14:textId="1598742D" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="2DAFD172" w14:textId="1598742D" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4107,7 +4011,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4D02C121" w14:textId="14AD8F28" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="4D02C121" w14:textId="14AD8F28" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4122,7 +4026,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7DB7EA19" w14:textId="6159BCD5" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="7DB7EA19" w14:textId="6159BCD5" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4137,7 +4041,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="139CBC7E" w14:textId="4AAE2646" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="139CBC7E" w14:textId="4AAE2646" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4149,12 +4053,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="13E911CE" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="13E911CE" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="077A9B10" w14:textId="15FF1EAE" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="077A9B10" w14:textId="15FF1EAE" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4169,7 +4073,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="059B6718" w14:textId="7748A51E" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="059B6718" w14:textId="7748A51E" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4184,7 +4088,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="35CEB2A0" w14:textId="38F35AAC" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="35CEB2A0" w14:textId="38F35AAC" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4199,7 +4103,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="55A772B9" w14:textId="6AEA4C2D" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="55A772B9" w14:textId="6AEA4C2D" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4211,12 +4115,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="233E4222" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="233E4222" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6F5CC335" w14:textId="3979566E" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="6F5CC335" w14:textId="3979566E" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4231,7 +4135,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="54B9AB02" w14:textId="7EF58C01" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="54B9AB02" w14:textId="7EF58C01" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4246,7 +4150,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="71E25526" w14:textId="2D08FE99" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="71E25526" w14:textId="2D08FE99" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4261,7 +4165,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="12E98273" w14:textId="4D1BED5A" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="12E98273" w14:textId="4D1BED5A" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4273,12 +4177,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="1400A71F" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="1400A71F" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="267BC95A" w14:textId="436D7142" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="267BC95A" w14:textId="436D7142" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4293,7 +4197,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="75E8419B" w14:textId="589EC977" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="75E8419B" w14:textId="589EC977" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4308,7 +4212,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6A29D530" w14:textId="5EA3C7ED" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="6A29D530" w14:textId="5EA3C7ED" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4323,7 +4227,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="61E47245" w14:textId="4C39A5F0" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="61E47245" w14:textId="4C39A5F0" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4335,12 +4239,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="1E7A578A" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="1E7A578A" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="781812DF" w14:textId="5A9FD608" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="781812DF" w14:textId="5A9FD608" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4355,7 +4259,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4E98E135" w14:textId="40E2D5AF" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="4E98E135" w14:textId="40E2D5AF" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4370,7 +4274,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="5A04932E" w14:textId="592C802D" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="5A04932E" w14:textId="592C802D" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4385,7 +4289,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="7C8F3F3F" w14:textId="1B3E23E1" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="7C8F3F3F" w14:textId="1B3E23E1" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4397,12 +4301,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="71FF8F5C" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="71FF8F5C" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="567D0227" w14:textId="39F326EF" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="567D0227" w14:textId="39F326EF" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4417,7 +4321,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="14C874C7" w14:textId="40298181" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="14C874C7" w14:textId="40298181" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4432,7 +4336,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="6934AB44" w14:textId="135A142C" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="6934AB44" w14:textId="135A142C" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4447,7 +4351,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="249B39A7" w14:textId="01C49B74" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="249B39A7" w14:textId="01C49B74" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4459,12 +4363,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="76A5D1EB" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="76A5D1EB" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="742BB880" w14:textId="6E8C5ED8" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="742BB880" w14:textId="6E8C5ED8" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4479,7 +4383,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="4C51FEE9" w14:textId="1A1F7D09" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="4C51FEE9" w14:textId="1A1F7D09" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4494,7 +4398,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="00AD0697" w14:textId="450C705A" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="00AD0697" w14:textId="450C705A" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4509,7 +4413,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="08E28F73" w14:textId="093EFB60" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="08E28F73" w14:textId="093EFB60" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4521,12 +4425,12 @@
           </w:p>
         </w:tc>
       </w:tr>
-      <w:tr w:rsidR="00AB1D46" w14:paraId="644678D1" w14:textId="77777777" w:rsidTr="00AB1D46">
+      <w:tr w14:paraId="644678D1" w14:textId="77777777" w:rsidTr="00AB1D46">
         <w:tc>
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="527310FB" w14:textId="503E3AB6" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="527310FB" w14:textId="503E3AB6" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4541,7 +4445,7 @@
           <w:tcPr>
             <w:tcW w:w="2517" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="235F3EEF" w14:textId="7E5F31BA" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="235F3EEF" w14:textId="7E5F31BA" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4556,7 +4460,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="17FE10D2" w14:textId="2503B611" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="17FE10D2" w14:textId="2503B611" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4571,7 +4475,7 @@
           <w:tcPr>
             <w:tcW w:w="2518" w:type="dxa" />
           </w:tcPr>
-          <w:p w14:paraId="08D81266" w14:textId="1A6C69A5" w:rsidR="00AB1D46" w:rsidRDefault="00AB1D46" w:rsidP="00AB1D46">
+          <w:p w14:paraId="08D81266" w14:textId="1A6C69A5" w:rsidP="00AB1D46">
             <w:pPr>
               <w:rPr>
                 <w:noProof />
@@ -4584,14 +4488,14 @@
         </w:tc>
       </w:tr>
     </w:tbl>
-    <w:p w14:paraId="1F0094FF" w14:textId="236EA1A2" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1F0094FF" w14:textId="236EA1A2" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="7460C291" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7460C291" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4604,7 +4508,7 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3F151CE7" w14:textId="23D22559" w:rsidR="005A3433" w:rsidRDefault="00AB1D46" w:rsidP="005A3433">
+    <w:p w14:paraId="3F151CE7" w14:textId="23D22559" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4657,7 +4561,7 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="280296DF" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="280296DF" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4670,7 +4574,7 @@
         <w:t>Conclusion</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0C12B667" w14:textId="772E0B49" w:rsidR="00CB7722" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0C12B667" w14:textId="772E0B49" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4683,12 +4587,12 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3A72DFF2" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="3A72DFF2" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -4697,7 +4601,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="4C5FD613" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="00CB7722" w:rsidP="005A3433">
+    <w:p w14:paraId="4C5FD613" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4708,16 +4612,10 @@
           <w:noProof />
         </w:rPr>
         <w:lastRenderedPageBreak />
-        <w:t>C</w:t>
-      </w:r>
-      <w:r w:rsidR="005A3433">
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>onclusion</w:t>
+        <w:t>Conclusion</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="53DA98F3" w14:textId="650A049D" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="53DA98F3" w14:textId="650A049D" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4730,7 +4628,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="042A857D" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="042A857D" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4743,7 +4641,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6E4FAC67" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6E4FAC67" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4756,7 +4654,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="0195DAC4" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="0195DAC4" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4769,7 +4667,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6CF641AE" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6CF641AE" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4782,7 +4680,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3E429E0F" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="3E429E0F" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4795,7 +4693,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1CB66F68" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1CB66F68" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4808,7 +4706,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1DDCA6F9" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1DDCA6F9" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4821,7 +4719,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="34FE6F28" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="34FE6F28" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4834,7 +4732,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="1FFB1D10" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="1FFB1D10" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4847,7 +4745,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="7F96A5E2" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="7F96A5E2" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4860,7 +4758,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5166BC59" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5166BC59" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4873,7 +4771,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6D5475E0" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6D5475E0" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4886,7 +4784,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5C3B0085" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5C3B0085" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4900,7 +4798,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5E8FC8C1" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5E8FC8C1" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4913,7 +4811,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4D15772B" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4D15772B" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4926,7 +4824,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="4B898B68" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="4B898B68" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4939,7 +4837,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="76B5E600" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="76B5E600" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4952,7 +4850,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3B458A4F" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="3B458A4F" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4965,7 +4863,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="75D7B95C" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="75D7B95C" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4978,7 +4876,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6FEEF541" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6FEEF541" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -4991,7 +4889,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3D43C21D" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="3D43C21D" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5004,7 +4902,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6B7AA3FB" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6B7AA3FB" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5017,7 +4915,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5AF1BF08" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="5AF1BF08" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5030,7 +4928,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="073A70A6" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="073A70A6" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5043,7 +4941,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="68004281" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="68004281" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5056,7 +4954,7 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6D044386" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="6D044386" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5070,7 +4968,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="579F64C3" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="579F64C3" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5083,7 +4981,7 @@
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="18E97B10" w14:textId="77777777" w:rsidR="005A3433" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="18E97B10" w14:textId="77777777" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5096,12 +4994,12 @@
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="64062C84" w14:textId="691A66C7" w:rsidR="00624368" w:rsidRDefault="005A3433" w:rsidP="005A3433">
+    <w:p w14:paraId="64062C84" w14:textId="691A66C7" w:rsidP="005A3433">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -5116,7 +5014,7 @@
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="360F680A" w14:textId="77777777" w:rsidR="00CB7722" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="360F680A" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5130,12 +5028,12 @@
         <w:t>Ref</w:t>
       </w:r>
     </w:p>
-    <w:p w14:paraId="5BE6A97B" w14:textId="77777777" w:rsidR="00624368" w:rsidRDefault="00624368" w:rsidP="00CB7722">
+    <w:p w14:paraId="5BE6A97B" w14:textId="77777777" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:sectPr w:rsidR="00624368" w:rsidSect="00C221E3">
+        <w:sectPr w:rsidSect="00C221E3">
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
           <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
@@ -5144,7 +5042,7 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="5EE815B5" w14:textId="0817060D" w:rsidR="0022143C" w:rsidRDefault="00CB7722" w:rsidP="00CB7722">
+    <w:p w14:paraId="5EE815B5" w14:textId="0817060D" w:rsidP="00CB7722">
       <w:pPr>
         <w:rPr>
           <w:noProof />
@@ -5158,7 +5056,7 @@
         <w:t>Appendix</w:t>
       </w:r>
     </w:p>
-    <w:sectPr w:rsidR="0022143C" w:rsidSect="00C221E3">
+    <w:sectPr w:rsidSect="00C221E3">
       <w:type w:val="oddPage" />
       <w:pgSz w:w="12240" w:h="15840" />
       <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
