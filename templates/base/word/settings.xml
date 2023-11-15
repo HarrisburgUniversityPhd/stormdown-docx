@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
   <w:zoom w:percent="150" />
-  <w:proofState w:spelling="clean" w:grammar="clean" />
   <w:doNotTrackMoves />
   <w:doNotTrackFormatting />
   <w:defaultTabStop w:val="720" />
@@ -24,29 +23,8 @@
     <w:compatSetting w:name="useWord2013TrackBottomHyphenation" w:uri="http://schemas.microsoft.com/office/word" w:val="0" />
   </w:compat>
   <w:rsids>
-    <w:rsidRoot w:val="00407BA7" />
-    <w:rsid w:val="001D7F82" />
-    <w:rsid w:val="0022143C" />
-    <w:rsid w:val="0029175E" />
-    <w:rsid w:val="0036768F" />
-    <w:rsid w:val="003943EB" />
-    <w:rsid w:val="00407BA7" />
-    <w:rsid w:val="0053278B" />
-    <w:rsid w:val="005A3433" />
-    <w:rsid w:val="005D3600" />
-    <w:rsid w:val="005E5127" />
-    <w:rsid w:val="00624368" />
-    <w:rsid w:val="006D1982" />
-    <w:rsid w:val="0083423D" />
-    <w:rsid w:val="00A8067F" />
-    <w:rsid w:val="00AB1D46" />
-    <w:rsid w:val="00BF3163" />
-    <w:rsid w:val="00C221E3" />
-    <w:rsid w:val="00C76D85" />
-    <w:rsid w:val="00CB7722" />
-    <w:rsid w:val="00CD4F63" />
-    <w:rsid w:val="00D53A97" />
-    <w:rsid w:val="00E91101" />
+    <w:rsidRoot w:val="00000001" />
+    <w:rsid w:val="00000001" />
   </w:rsids>
   <m:mathPr>
     <m:mathFont m:val="Cambria Math" />
