@@ -413,7 +413,6 @@
     <w:name w:val="heading 1" />
     <w:next w:val="Normal" />
     <w:link w:val="Heading1Char" />
-    <w:autoRedefine />
     <w:uiPriority w:val="9" />
     <w:qFormat />
     <w:rsid w:val="00272D48" />
@@ -463,17 +462,15 @@
     <w:basedOn w:val="Heading2" />
     <w:next w:val="Normal" />
     <w:link w:val="Heading3Char" />
-    <w:autoRedefine />
     <w:uiPriority w:val="9" />
-    <w:semiHidden />
     <w:unhideWhenUsed />
     <w:qFormat />
-    <w:rsid w:val="00842EE5" />
+    <w:rsid w:val="00CF5348" />
     <w:pPr>
       <w:pBdr>
         <w:top w:val="none" w:sz="0" w:space="0" w:color="auto" />
       </w:pBdr>
-      <w:spacing w:after="0" />
+      <w:spacing w:before="240" w:after="240" />
       <w:outlineLvl w:val="2" />
     </w:pPr>
     <w:rPr>
@@ -689,8 +686,7 @@
     <w:basedOn w:val="DefaultParagraphFont" />
     <w:link w:val="Heading3" />
     <w:uiPriority w:val="9" />
-    <w:semiHidden />
-    <w:rsid w:val="00842EE5" />
+    <w:rsid w:val="00CF5348" />
     <w:rPr>
       <w:rFonts w:ascii="CMU Serif" w:eastAsiaTheme="majorEastAsia" w:hAnsi="CMU Serif" w:cstheme="majorBidi" />
       <w:b />
