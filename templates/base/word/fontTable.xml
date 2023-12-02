@@ -8,6 +8,7 @@
     <w:sig w:usb0="E10002FF" w:usb1="5201E9EB" w:usb2="02020004" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000" />
     <w:embedRegular r:id="rId1" w:fontKey="{C1C2D076-D031-41F4-8F79-2746E4E73FFB}" />
     <w:embedBold r:id="rId2" w:fontKey="{18A505E6-DE5B-4DD4-A312-0F6D42DA1343}" />
+    <w:embedItalic r:id="rId3" w:fontKey="{C3A017A2-A9B7-43CF-9C03-839FC38DC3B6}" />
   </w:font>
   <w:font w:name="Times New Roman">
     <w:panose1 w:val="02020603050405020304" />
