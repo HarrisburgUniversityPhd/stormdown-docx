@@ -2444,13 +2444,213 @@
         </w:sectPr>
       </w:pPr>
     </w:p>
-    <w:p w14:paraId="4815088F" w14:textId="6771AD0E">
+    <w:p w14:paraId="5C3D072D" w14:textId="77777777">
       <w:pPr>
         <w:pStyle w:val="Heading1" />
         <w:numPr>
           <w:ilvl w:val="0" />
           <w:numId w:val="0" />
         </w:numPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="_Toc152236241" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>List of Tables</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="0" />
+    </w:p>
+    <w:p w14:paraId="7AE412D4" w14:textId="2760CC58">
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> TOC \c "Table" </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Table 4.1: Sample Table (#1)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360258 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>13</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AB35750" w14:textId="6334B263">
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Table 4.2: Sample Table (#2)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360259 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>13</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6D295B1F" w14:textId="47BD57A8">
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Table 6.1: Sample Table (#3)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360260 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4815088F" w14:textId="21486AE3">
+      <w:pPr>
+        <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
@@ -2460,12 +2660,9 @@
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
       </w:pPr>
-      <w:bookmarkStart w:id="0" w:name="_Toc152236241" />
       <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>List of Tables</w:t>
+        <w:fldChar w:fldCharType="end" />
       </w:r>
-      <w:bookmarkEnd w:id="0" />
     </w:p>
     <w:p w14:paraId="7FF74045" w14:textId="027A62DC">
       <w:pPr>
@@ -2482,7 +2679,7 @@
       </w:r>
       <w:bookmarkEnd w:id="1" />
     </w:p>
-    <w:p w14:paraId="25DA6665" w14:textId="3CF89FCC">
+    <w:p w14:paraId="2B7BC230" w14:textId="3C8B6B4F">
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
@@ -2507,7 +2704,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Figure 5.1: Opioid Overdoses by Gender (#1)</w:t>
+        <w:t>Figure 5.1: Sample Figure (#1)</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2525,7 +2722,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152358835 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360203 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2551,7 +2748,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
     </w:p>
-    <w:p w14:paraId="469704E9" w14:textId="4DC4F4BE">
+    <w:p w14:paraId="45D569DA" w14:textId="5DFD9ECB">
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
@@ -2567,7 +2764,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Figure 5.2: Opioid Overdoses by Gender (#2)</w:t>
+        <w:t>Figure 5.2: Sample Figure (#2)</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2585,7 +2782,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152358836 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360204 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2611,7 +2808,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
     </w:p>
-    <w:p w14:paraId="2AA43EC7" w14:textId="076CBC88">
+    <w:p w14:paraId="274AB5CD" w14:textId="2B24AD80">
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
@@ -2627,7 +2824,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Figure 6.1: Opioid Overdoses by Gender (#3)</w:t>
+        <w:t>Figure 6.1: Sample Figure (#3)</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2645,7 +2842,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152358837 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152360205 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2671,7 +2868,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
     </w:p>
-    <w:p w14:paraId="69F63614" w14:textId="71896B72">
+    <w:p w14:paraId="69F63614" w14:textId="782D38A2">
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
@@ -3264,6 +3461,40 @@
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
+    <w:p w14:paraId="313B0884" w14:textId="3A9C8296">
+      <w:pPr>
+        <w:pStyle w:val="Caption" />
+        <w:keepNext />
+      </w:pPr>
+      <w:bookmarkStart w:id="11" w:name="_Toc152360258" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t xml:space="preserve">Table </w:t>
+      </w:r>
+      <w:fldSimple w:instr=" STYLEREF 1 \s ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>4</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>1</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>: Sample Table (#1)</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="11" />
+    </w:p>
     <w:tbl>
       <w:tblPr>
         <w:tblStyle w:val="TableGrid" />
@@ -3283,7 +3514,6 @@
           </w:tcPr>
           <w:p w14:paraId="3A67AAC9" w14:textId="08DADB38">
             <w:r>
-              <w:lastRenderedPageBreak />
               <w:t>Gender</w:t>
             </w:r>
           </w:p>
@@ -3661,6 +3891,39 @@
       <w:r>
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
+    </w:p>
+    <w:p w14:paraId="3E480179" w14:textId="0D6B3CCE">
+      <w:pPr>
+        <w:pStyle w:val="Caption" />
+        <w:keepNext />
+      </w:pPr>
+      <w:bookmarkStart w:id="12" w:name="_Toc152360259" />
+      <w:r>
+        <w:t xml:space="preserve">Table </w:t>
+      </w:r>
+      <w:fldSimple w:instr=" STYLEREF 1 \s ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>4</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>2</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>: Sample Table (#2)</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="12" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -4058,12 +4321,12 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="11" w:name="_Toc152236252" />
+      <w:bookmarkStart w:id="13" w:name="_Toc152236252" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="11" />
+      <w:bookmarkEnd w:id="13" />
     </w:p>
     <w:p w14:paraId="2A92439C" w14:textId="58A7CCF4">
       <w:pPr>
@@ -4084,12 +4347,12 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="12" w:name="_Toc152236253" />
+      <w:bookmarkStart w:id="14" w:name="_Toc152236253" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>My 2nd Publication</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="12" />
+      <w:bookmarkEnd w:id="14" />
     </w:p>
     <w:p w14:paraId="1A6A343D" w14:textId="2F41979F">
       <w:pPr>
@@ -4108,11 +4371,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="13" w:name="_Toc152236254" />
+      <w:bookmarkStart w:id="15" w:name="_Toc152236254" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="13" />
+      <w:bookmarkEnd w:id="15" />
     </w:p>
     <w:p w14:paraId="5B1568E4" w14:textId="77777777">
       <w:pPr>
@@ -4126,11 +4389,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="14" w:name="_Toc152236255" />
+      <w:bookmarkStart w:id="16" w:name="_Toc152236255" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="14" />
+      <w:bookmarkEnd w:id="16" />
     </w:p>
     <w:p w14:paraId="63AAFCC7" w14:textId="77777777">
       <w:pPr>
@@ -4154,11 +4417,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc152236256" />
+      <w:bookmarkStart w:id="17" w:name="_Toc152236256" />
       <w:r>
         <w:t>Literature Review</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="15" />
+      <w:bookmarkEnd w:id="17" />
     </w:p>
     <w:p w14:paraId="51FB8FCA" w14:textId="77777777">
       <w:pPr>
@@ -4193,11 +4456,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="16" w:name="_Toc152236257" />
+      <w:bookmarkStart w:id="18" w:name="_Toc152236257" />
       <w:r>
         <w:t>Method and Materials</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="16" />
+      <w:bookmarkEnd w:id="18" />
     </w:p>
     <w:p w14:paraId="278710DB" w14:textId="77777777">
       <w:pPr>
@@ -4211,11 +4474,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="17" w:name="_Toc152236258" />
+      <w:bookmarkStart w:id="19" w:name="_Toc152236258" />
       <w:r>
         <w:t>Results</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="17" />
+      <w:bookmarkEnd w:id="19" />
     </w:p>
     <w:p w14:paraId="7027BE49" w14:textId="77777777">
       <w:pPr>
@@ -4278,11 +4541,11 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3FBBF958" w14:textId="45136AE7">
+    <w:p w14:paraId="3FBBF958" w14:textId="00C8DE61">
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="18" w:name="_Toc152358835" />
+      <w:bookmarkStart w:id="20" w:name="_Toc152360203" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4306,9 +4569,9 @@
         </w:r>
       </w:fldSimple>
       <w:r>
-        <w:t>: Opioid Overdoses by Gender (#1)</w:t>
+        <w:t>: Sample Figure (#1)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="18" />
+      <w:bookmarkEnd w:id="20" />
     </w:p>
     <w:p w14:paraId="29598481" w14:textId="77777777">
       <w:r>
@@ -4368,11 +4631,11 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="6A3D130A" w14:textId="16A0FF1D">
+    <w:p w14:paraId="6A3D130A" w14:textId="6E89029F">
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="19" w:name="_Toc152358836" />
+      <w:bookmarkStart w:id="21" w:name="_Toc152360204" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4396,28 +4659,19 @@
         </w:r>
       </w:fldSimple>
       <w:r>
-        <w:t xml:space="preserve">: </w:t>
+        <w:t>: Sample Figure (#2)</w:t>
       </w:r>
-      <w:r>
-        <w:t>Opioid Overdoses by Gender</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t xml:space="preserve"> (#2)</w:t>
-      </w:r>
-      <w:bookmarkEnd w:id="19" />
+      <w:bookmarkEnd w:id="21" />
     </w:p>
     <w:p w14:paraId="44106017" w14:textId="77777777">
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="20" w:name="_Toc152236259" />
+      <w:bookmarkStart w:id="22" w:name="_Toc152236259" />
       <w:r>
         <w:t>Conclusion</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="20" />
+      <w:bookmarkEnd w:id="22" />
     </w:p>
     <w:p w14:paraId="48387F27" w14:textId="2CDD3735">
       <w:pPr>
@@ -4438,12 +4692,12 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="21" w:name="_Toc152236260" />
+      <w:bookmarkStart w:id="23" w:name="_Toc152236260" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>My 3rd Publication</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="21" />
+      <w:bookmarkEnd w:id="23" />
     </w:p>
     <w:p w14:paraId="02C29D8E" w14:textId="77777777">
       <w:pPr>
@@ -4462,11 +4716,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="22" w:name="_Toc152236261" />
+      <w:bookmarkStart w:id="24" w:name="_Toc152236261" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="22" />
+      <w:bookmarkEnd w:id="24" />
     </w:p>
     <w:p w14:paraId="4E3DBA85" w14:textId="77777777">
       <w:pPr>
@@ -4480,11 +4734,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="23" w:name="_Toc152236262" />
+      <w:bookmarkStart w:id="25" w:name="_Toc152236262" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="23" />
+      <w:bookmarkEnd w:id="25" />
     </w:p>
     <w:p w14:paraId="1D7C9F4A" w14:textId="77777777">
       <w:pPr>
@@ -4508,11 +4762,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="24" w:name="_Toc152236263" />
+      <w:bookmarkStart w:id="26" w:name="_Toc152236263" />
       <w:r>
         <w:t>Literature Review</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="24" />
+      <w:bookmarkEnd w:id="26" />
     </w:p>
     <w:p w14:paraId="43DFD521" w14:textId="77777777">
       <w:pPr>
@@ -4547,11 +4801,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="25" w:name="_Toc152236264" />
+      <w:bookmarkStart w:id="27" w:name="_Toc152236264" />
       <w:r>
         <w:t>Method and Materials</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="25" />
+      <w:bookmarkEnd w:id="27" />
     </w:p>
     <w:p w14:paraId="09E45CC7" w14:textId="77777777">
       <w:pPr>
@@ -4565,11 +4819,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="26" w:name="_Toc152236265" />
+      <w:bookmarkStart w:id="28" w:name="_Toc152236265" />
       <w:r>
         <w:t>Results</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="26" />
+      <w:bookmarkEnd w:id="28" />
     </w:p>
     <w:p w14:paraId="4BAF4BED" w14:textId="77777777">
       <w:pPr>
@@ -4578,6 +4832,39 @@
       <w:r>
         <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
+    </w:p>
+    <w:p w14:paraId="4B843736" w14:textId="04110B25">
+      <w:pPr>
+        <w:pStyle w:val="Caption" />
+        <w:keepNext />
+      </w:pPr>
+      <w:bookmarkStart w:id="29" w:name="_Toc152360260" />
+      <w:r>
+        <w:t xml:space="preserve">Table </w:t>
+      </w:r>
+      <w:fldSimple w:instr=" STYLEREF 1 \s ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>6</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>.</w:t>
+      </w:r>
+      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
+        <w:r>
+          <w:rPr>
+            <w:noProof />
+          </w:rPr>
+          <w:t>1</w:t>
+        </w:r>
+      </w:fldSimple>
+      <w:r>
+        <w:t>: Sample Table (#3)</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="29" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -4724,6 +5011,7 @@
           </w:tcPr>
           <w:p w14:paraId="6F5CC335" w14:textId="3979566E">
             <w:r>
+              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -4766,7 +5054,6 @@
           </w:tcPr>
           <w:p w14:paraId="267BC95A" w14:textId="436D7142">
             <w:r>
-              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -5029,11 +5316,11 @@
         </w:drawing>
       </w:r>
     </w:p>
-    <w:p w14:paraId="3F151CE7" w14:textId="3CB00F80">
+    <w:p w14:paraId="3F151CE7" w14:textId="5BC10382">
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="27" w:name="_Toc152358837" />
+      <w:bookmarkStart w:id="30" w:name="_Toc152360205" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -5057,20 +5344,20 @@
         </w:r>
       </w:fldSimple>
       <w:r>
-        <w:t>: Opioid Overdoses by Gender (#3)</w:t>
+        <w:t>: Sample Figure (#3)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="27" />
+      <w:bookmarkEnd w:id="30" />
     </w:p>
     <w:p w14:paraId="280296DF" w14:textId="77777777">
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="28" w:name="_Toc152236266" />
+      <w:bookmarkStart w:id="31" w:name="_Toc152236266" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="28" />
+      <w:bookmarkEnd w:id="31" />
     </w:p>
     <w:p w14:paraId="0C12B667" w14:textId="772E0B49">
       <w:pPr>
@@ -5095,12 +5382,12 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="29" w:name="_Toc152236267" />
+      <w:bookmarkStart w:id="32" w:name="_Toc152236267" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="29" />
+      <w:bookmarkEnd w:id="32" />
     </w:p>
     <w:p w14:paraId="53DA98F3" w14:textId="650A049D">
       <w:pPr>
@@ -5275,12 +5562,12 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="30" w:name="_Toc152236268" />
+      <w:bookmarkStart w:id="33" w:name="_Toc152236268" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Ref</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="30" />
+      <w:bookmarkEnd w:id="33" />
     </w:p>
     <w:p w14:paraId="5BE6A97B" w14:textId="77777777">
       <w:pPr>
@@ -5301,12 +5588,12 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="31" w:name="_Toc152236269" />
+      <w:bookmarkStart w:id="34" w:name="_Toc152236269" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="31" />
+      <w:bookmarkEnd w:id="34" />
     </w:p>
     <w:sectPr>
       <w:type w:val="oddPage" />

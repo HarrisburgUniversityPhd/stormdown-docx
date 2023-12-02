@@ -826,15 +826,15 @@
     <w:uiPriority w:val="35" />
     <w:unhideWhenUsed />
     <w:qFormat />
-    <w:rsid w:val="005F19A8" />
+    <w:rsid w:val="004C1D48" />
     <w:pPr>
       <w:spacing w:after="200" w:line="240" w:lineRule="auto" />
+      <w:ind w:firstLine="0" />
+      <w:jc w:val="center" />
     </w:pPr>
     <w:rPr>
       <w:i />
       <w:iCs />
-      <w:color w:val="44546A" w:themeColor="text2" />
-      <w:sz w:val="18" />
       <w:szCs w:val="18" />
     </w:rPr>
   </w:style>
