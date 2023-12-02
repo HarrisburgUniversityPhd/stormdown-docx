@@ -33,7 +33,8 @@ function write-folder {
 		dir -r "$($name)/*.xml" | % {
 			$xml = [xml](gc -LiteralPath $_ -encoding utf8)
 			$nodes = $xml.SelectNodes('//*')
-			$attributes = @('w:rsidR', 'w:rsidRDefault', 'w:rsidP', 'w:rsidRPr', 'w:rsidSect', 'w:rsidTr')
+			# https://learn.microsoft.com/en-us/dotnet/api/documentformat.openxml.wordprocessing.paragraph
+			$attributes = @('rsidDel', 'w:rsidR', 'w:rsidP', 'w:rsidRDefault', 'w:rsidRPr', 'w:rsidSect', 'w:rsidTr', 'w14:paraId', 'w14:textId')
 			foreach($attribute in $attributes) { foreach($node in $nodes) { $node.RemoveAttribute($attribute) }}
 			$xml.Save($_)
 		}
