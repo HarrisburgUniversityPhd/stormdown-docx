@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:fonts xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
-  <w:font w:name="CMU Serif">
-    <w:panose1 w:val="02000603000000000000" />
-    <w:charset w:val="00" />
-    <w:family w:val="auto" />
-    <w:pitch w:val="variable" />
-    <w:sig w:usb0="E10002FF" w:usb1="5201E9EB" w:usb2="02020004" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000" />
-    <w:embedRegular r:id="rId1" w:fontKey="{C1C2D076-D031-41F4-8F79-2746E4E73FFB}" />
-    <w:embedBold r:id="rId2" w:fontKey="{18A505E6-DE5B-4DD4-A312-0F6D42DA1343}" />
-    <w:embedItalic r:id="rId3" w:fontKey="{C3A017A2-A9B7-43CF-9C03-839FC38DC3B6}" />
-  </w:font>
   <w:font w:name="Times New Roman">
     <w:panose1 w:val="02020603050405020304" />
     <w:charset w:val="00" />
     <w:family w:val="roman" />
     <w:pitch w:val="variable" />
     <w:sig w:usb0="E0002EFF" w:usb1="C000785B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF" w:csb1="00000000" />
+  </w:font>
+  <w:font w:name="CMU Serif">
+    <w:panose1 w:val="02000603000000000000" />
+    <w:charset w:val="00" />
+    <w:family w:val="auto" />
+    <w:pitch w:val="variable" />
+    <w:sig w:usb0="E10002FF" w:usb1="5201E9EB" w:usb2="02020004" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000" />
+    <w:embedRegular r:id="rId1" w:fontKey="{DB755153-F592-4A9E-A33D-3C18B136A2CA}" />
+    <w:embedBold r:id="rId2" w:fontKey="{80C72F92-C078-475E-9FD5-BD0E9F759C7E}" />
+    <w:embedItalic r:id="rId3" w:fontKey="{E285CE65-9B98-4D68-9F12-502ECA9649CB}" />
   </w:font>
 </w:fonts>
