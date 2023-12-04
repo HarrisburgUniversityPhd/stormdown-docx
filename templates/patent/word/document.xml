@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="7B04CEA2" wp14:editId="027815CA">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="4ADAB228" wp14:editId="42F173FC">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -767,7 +767,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601580 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606105 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -827,7 +827,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601581 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606106 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -887,7 +887,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601582 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606107 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -929,7 +929,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>2 Literature Review</w:t>
+        <w:t>2 Technical Field</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -947,7 +947,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601583 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606108 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -989,7 +989,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>3 Method and Materials</w:t>
+        <w:t>3 Background</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1007,67 +1007,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601584 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>9</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>3.1 Data</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601585 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606109 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1109,7 +1049,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4 Results</w:t>
+        <w:t>4 Claims</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1127,7 +1067,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601586 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606110 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1169,7 +1109,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5 Conclusion</w:t>
+        <w:t>5 Summary of Embodiments of the Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1187,7 +1127,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601587 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606111 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1229,7 +1169,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>References</w:t>
+        <w:t>6 Brief Description of the Drawings</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1247,7 +1187,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601588 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606112 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>15</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC1" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>7 Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606113 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1265,6 +1265,66 @@
           <w:noProof />
         </w:rPr>
         <w:t>17</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC1" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Bibliography</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606114 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>19</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1307,7 +1367,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601589 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606115 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1324,7 +1384,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>19</w:t>
+        <w:t>21</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1363,7 +1423,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="5" w:name="_Toc152601580" />
+      <w:bookmarkStart w:id="5" w:name="_Toc152606105" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Tables</w:t>
@@ -1395,7 +1455,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Table 6.1: Sample Table</w:t>
+        <w:t>Table 4.1: Sample Table</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1413,7 +1473,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601590 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606213 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1463,7 +1523,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="6" w:name="_Toc152601581" />
+      <w:bookmarkStart w:id="6" w:name="_Toc152606106" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Figures</w:t>
@@ -1495,7 +1555,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Figure 6.1: Sample Figure</w:t>
+        <w:t>Figure 4.1: Sample Figure</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1513,7 +1573,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152601591 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152606220 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1559,7 +1619,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="7" w:name="_Toc152601582" />
+      <w:bookmarkStart w:id="7" w:name="_Toc152606107" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Introduction</w:t>
@@ -1790,19 +1850,10 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="8" w:name="_Toc152601583" />
+      <w:bookmarkStart w:id="8" w:name="_Toc152606108" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>L</w:t>
-      </w:r>
-      <w:r>
-        <w:t xml:space="preserve">iterature </w:t>
-      </w:r>
-      <w:r>
-        <w:t>R</w:t>
-      </w:r>
-      <w:r>
-        <w:t>eview</w:t>
+        <w:t>Technical Field</w:t>
       </w:r>
       <w:bookmarkEnd w:id="8" />
     </w:p>
@@ -1983,50 +2034,16 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="9" w:name="_Toc152601584" />
+      <w:bookmarkStart w:id="9" w:name="_Toc152606109" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Method and Materials</w:t>
+        <w:t>Background</w:t>
       </w:r>
       <w:bookmarkEnd w:id="9" />
     </w:p>
     <w:p>
       <w:pPr>
         <w:ind w:firstLine="0" />
-      </w:pPr>
-      <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="Heading2" />
-      </w:pPr>
-      <w:bookmarkStart w:id="10" w:name="_Toc152601585" />
-      <w:r>
-        <w:t>Data</w:t>
-      </w:r>
-      <w:bookmarkEnd w:id="10" />
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:ind w:firstLine="0" />
-      </w:pPr>
-      <w:r>
-        <w:t xml:space="preserve">Diam justo et quo, </w:t>
-      </w:r>
-      <w:proofErr w:type="gramStart" />
-      <w:r>
-        <w:t>an</w:t>
-      </w:r>
-      <w:proofErr w:type="gramEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="Heading1" />
         <w:sectPr>
           <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
@@ -2035,17 +2052,42 @@
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
       </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mea</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>eu</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> eros delectus.</w:t>
+      </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="11" w:name="_Toc152601586" />
+      <w:bookmarkStart w:id="10" w:name="_Toc152606110" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Results</w:t>
+        <w:t>Clai</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="11" />
+      <w:r>
+        <w:t>m</w:t>
+      </w:r>
+      <w:r>
+        <w:t>s</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="10" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -2060,7 +2102,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="12" w:name="_Toc152601590" />
+      <w:bookmarkStart w:id="11" w:name="_Toc152606213" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -2069,7 +2111,7 @@
           <w:rPr>
             <w:noProof />
           </w:rPr>
-          <w:t>6</w:t>
+          <w:t>4</w:t>
         </w:r>
       </w:fldSimple>
       <w:r>
@@ -2086,7 +2128,7 @@
       <w:r>
         <w:t>: Sample Table</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="12" />
+      <w:bookmarkEnd w:id="11" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -2496,7 +2538,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="065C744B" wp14:editId="23E603A4">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="43FB6104" wp14:editId="1DC5A175">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -2542,7 +2584,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="13" w:name="_Toc152601591" />
+      <w:bookmarkStart w:id="12" w:name="_Toc152606220" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -2551,7 +2593,7 @@
           <w:rPr>
             <w:noProof />
           </w:rPr>
-          <w:t>6</w:t>
+          <w:t>4</w:t>
         </w:r>
       </w:fldSimple>
       <w:r>
@@ -2568,7 +2610,7 @@
       <w:r>
         <w:t>: Sample Figure</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="13" />
+      <w:bookmarkEnd w:id="12" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -2585,10 +2627,127 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="14" w:name="_Toc152601587" />
+      <w:bookmarkStart w:id="13" w:name="_Toc152606111" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Conclusion</w:t>
+        <w:t>Summary of Embodiments of the Invention</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="13" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Diam justo et quo, </w:t>
+      </w:r>
+      <w:proofErr w:type="gramStart" />
+      <w:r>
+        <w:t>an</w:t>
+      </w:r>
+      <w:proofErr w:type="gramEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>repudiare</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>theophrastus</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, vim novum </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>scribentur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:sectPr>
+          <w:type w:val="oddPage" />
+          <w:pgSz w:w="12240" w:h="15840" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:cols w:space="720" />
+          <w:docGrid w:linePitch="360" />
+        </w:sectPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:bookmarkStart w:id="14" w:name="_Toc152606112" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Brief Description of the Drawings</w:t>
       </w:r>
       <w:bookmarkEnd w:id="14" />
     </w:p>
@@ -2597,89 +2756,39 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+        <w:t xml:space="preserve">Semper </w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellStart" />
       <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+        <w:t>instructior</w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellEnd" />
       <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+        <w:t xml:space="preserve"> </w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellStart" />
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+        <w:t>ei</w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellEnd" />
       <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+        <w:t xml:space="preserve"> sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming </w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellStart" />
       <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+        <w:t>necessitatibus</w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellEnd" />
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+        <w:t xml:space="preserve"> </w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellStart" />
       <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+        <w:t>eu</w:t>
       </w:r>
-    </w:p>
-    <w:p>
+      <w:proofErr w:type="spellEnd" />
       <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+        <w:t>.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -2724,12 +2833,85 @@
       </w:r>
     </w:p>
     <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+        <w:sectPr>
+          <w:type w:val="oddPage" />
+          <w:pgSz w:w="12240" w:h="15840" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:cols w:space="720" />
+          <w:docGrid w:linePitch="360" />
+        </w:sectPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+      </w:pPr>
+      <w:bookmarkStart w:id="15" w:name="_Toc152606113" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="15" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t xml:space="preserve">Semper </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>instructior</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>ei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
       <w:r>
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -2765,13 +2947,13 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc152601588" />
-      <w:commentRangeStart w:id="16" />
+      <w:bookmarkStart w:id="16" w:name="_Toc152606114" />
+      <w:commentRangeStart w:id="17" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>References</w:t>
+        <w:t>Bibliography</w:t>
       </w:r>
-      <w:commentRangeEnd w:id="16" />
+      <w:commentRangeEnd w:id="17" />
       <w:r>
         <w:rPr>
           <w:rStyle w:val="CommentReference" />
@@ -2780,9 +2962,9 @@
           <w:kern w:val="2" />
           <w14:ligatures w14:val="standardContextual" />
         </w:rPr>
-        <w:commentReference w:id="16" />
+        <w:commentReference w:id="17" />
       </w:r>
-      <w:bookmarkEnd w:id="15" />
+      <w:bookmarkEnd w:id="16" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -2848,12 +3030,12 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="17" w:name="_Toc152601589" />
+      <w:bookmarkStart w:id="18" w:name="_Toc152606115" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="17" />
+      <w:bookmarkEnd w:id="18" />
     </w:p>
     <w:sectPr>
       <w:type w:val="oddPage" />
