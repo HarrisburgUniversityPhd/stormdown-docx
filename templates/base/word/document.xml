@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="6DE9201C" wp14:editId="2381D05A">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="2572A252" wp14:editId="39C9F72F">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -2951,7 +2951,44 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>mei</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve">, vim novum </w:t>
+      </w:r>
+      <w:proofErr w:type="spellStart" />
+      <w:r>
+        <w:t>scribentur</w:t>
+      </w:r>
+      <w:proofErr w:type="spellEnd" />
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"Kjb4he2W","properties":{"formattedCitation":"(Newman, 2023)","plainCitation":"(Newman, 2023)","noteIndex":0},"citationItems":[{"id":1,"uris":["http://zotero.org/users/13151212/items/2GHMD89X"],"itemData":{"id":1,"type":"software","abstract":"A Harrisburg University Dissertation Template.","genre":"Microsoft Word","license":"All rights reserved","publisher":"Harrisburg University","title":"stormdown-docx","URL":"https://github.com/HarrisburgUniversityPhd/stormdown-docx","version":"1.0","author":[{"family":"Newman","given":"Mark"}],"accessed":{"date-parts":[["2023",12,1]]},"issued":{"date-parts":[["2023",12,1]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"} </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="CMU Serif" />
+        </w:rPr>
+        <w:t>(Newman, 2023)</w:t>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+      <w:r>
+        <w:t>.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -4734,7 +4771,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4622E20A" wp14:editId="43466F33">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="141CA649" wp14:editId="2A23FAB0">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="654900084" name="Picture 1" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -4824,7 +4861,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0024E201" wp14:editId="21FEF81D">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4155064F" wp14:editId="75DFCC67">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1045535679" name="Picture 2" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5515,7 +5552,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4D812968" wp14:editId="6F1E5DD5">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="25B1851A" wp14:editId="264C0FB0">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5804,11 +5841,68 @@
         </w:numPr>
       </w:pPr>
       <w:bookmarkStart w:id="48" w:name="_Toc152236268" />
+      <w:commentRangeStart w:id="49" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Ref</w:t>
+        <w:t>References</w:t>
       </w:r>
       <w:bookmarkEnd w:id="48" />
+      <w:commentRangeEnd w:id="49" />
+      <w:r>
+        <w:rPr>
+          <w:rStyle w:val="CommentReference" />
+          <w:rFonts w:eastAsiaTheme="minorHAnsi" w:cstheme="minorBidi" />
+          <w:b w:val="0" />
+          <w:kern w:val="2" />
+          <w14:ligatures w14:val="standardContextual" />
+        </w:rPr>
+        <w:commentReference w:id="49" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Bibliography" />
+        <w:rPr>
+          <w:rFonts w:cs="CMU Serif" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> ADDIN ZOTERO_BIBL {"uncited":[],"omitted":[],"custom":[]} CSL_BIBLIOGRAPHY </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="CMU Serif" />
+        </w:rPr>
+        <w:t xml:space="preserve">Newman, M. (2023). </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="CMU Serif" />
+          <w:i />
+          <w:iCs />
+        </w:rPr>
+        <w:t>Stormdown-docx</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="CMU Serif" />
+        </w:rPr>
+        <w:t xml:space="preserve"> (1.0) [Microsoft Word]. Harrisburg University. https://github.com/HarrisburgUniversityPhd/stormdown-docx</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
     </w:p>
     <w:p>
       <w:pPr>
@@ -5829,12 +5923,12 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="49" w:name="_Toc152236269" />
+      <w:bookmarkStart w:id="50" w:name="_Toc152236269" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="49" />
+      <w:bookmarkEnd w:id="50" />
     </w:p>
     <w:sectPr>
       <w:type w:val="oddPage" />
