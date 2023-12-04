@@ -50,7 +50,7 @@
         <w:annotationRef />
       </w:r>
       <w:r>
-        <w:t>Full names of authors are required in the author and copyright fields. Put a space between authors' initials.</w:t>
+        <w:t>The full name of the author are required in the author and copyright fields. Put a space between authors' initials.</w:t>
       </w:r>
     </w:p>
   </w:comment>
@@ -68,29 +68,11 @@
         <w:annotationRef />
       </w:r>
       <w:r>
-        <w:t>Full names of authors are required in the author and copyright fields. Put a space between authors' initials.</w:t>
-      </w:r>
-    </w:p>
-  </w:comment>
-  <w:comment w:id="4" w:author="mark newman" w:date="2023-12-01T23:48:00Z" w:initials="mn">
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="CommentText" />
-        <w:ind w:firstLine="0" />
-        <w:jc w:val="left" />
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:rStyle w:val="CommentReference" />
-        </w:rPr>
-        <w:annotationRef />
-      </w:r>
-      <w:r>
         <w:t>The abstract must be a concise yet comprehensive reflection of what is in your article. In particular, the abstract must be self-contained, without abbreviations, footnotes, or references. It should be a microcosm of the full article. The abstract must be between 150–500 words. Be sure that you adhere to these limits; otherwise, you will need to edit your abstract accordingly. The abstract must be written as one paragraph, and should not contain displayed mathematical equations or tabular material. Ensure that your abstract reads well and is grammatically correct.</w:t>
       </w:r>
     </w:p>
   </w:comment>
-  <w:comment w:id="5" w:author="mark newman" w:date="2023-12-01T23:49:00Z" w:initials="mn">
+  <w:comment w:id="4" w:author="mark newman" w:date="2023-12-01T23:49:00Z" w:initials="mn">
     <w:p>
       <w:pPr>
         <w:pStyle w:val="CommentText" />
@@ -108,7 +90,7 @@
       </w:r>
     </w:p>
   </w:comment>
-  <w:comment w:id="11" w:author="mark newman" w:date="2023-12-01T23:20:00Z" w:initials="mn">
+  <w:comment w:id="10" w:author="mark newman" w:date="2023-12-01T23:20:00Z" w:initials="mn">
     <w:p>
       <w:pPr>
         <w:pStyle w:val="CommentText" />
