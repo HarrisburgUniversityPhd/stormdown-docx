@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="515CCF6D" wp14:editId="708E626F">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="55C3A524" wp14:editId="4DA33E27">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -767,7 +767,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603808 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751791 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -827,7 +827,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603809 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751792 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -887,7 +887,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603810 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751793 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -929,7 +929,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>2 Literature Review</w:t>
+        <w:t>2 General Overview</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -947,7 +947,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603811 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751794 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1007,7 +1007,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603812 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751795 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1049,7 +1049,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4 My 1st Publication</w:t>
+        <w:t>4 My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1067,7 +1080,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603813 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751796 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1127,7 +1140,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603814 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751797 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1187,7 +1200,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603815 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751798 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1229,7 +1242,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4.3 Literature Review</w:t>
+        <w:t>4.3 Technical Field</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1247,7 +1260,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603816 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751799 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1289,7 +1302,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4.4 Method and Materials</w:t>
+        <w:t>4.4 Background</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1307,7 +1320,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603817 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751800 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1349,7 +1362,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4.5 Results</w:t>
+        <w:t>4.5 Claims</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1367,7 +1380,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603818 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751801 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1409,7 +1422,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4.6 Conclusion</w:t>
+        <w:t>4.6 Summary of Embodiments of the Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1427,7 +1440,127 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603819 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751802 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>13</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4.7 Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751803 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>13</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4.8 Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751804 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1469,7 +1602,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5 My 2nd Publication</w:t>
+        <w:t>5 My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1487,7 +1633,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603820 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751805 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1547,7 +1693,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603821 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751806 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1607,7 +1753,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603822 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751807 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1649,7 +1795,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5.3 Literature Review</w:t>
+        <w:t>5.3 Technical Field</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1667,7 +1813,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603823 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751808 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1709,7 +1855,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5.4 Method and Materials</w:t>
+        <w:t>5.4 Background</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1727,7 +1873,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603824 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751809 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1769,7 +1915,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5.5 Results</w:t>
+        <w:t>5.5 Claims</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1787,7 +1933,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603825 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751810 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1829,7 +1975,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5.6 Conclusion</w:t>
+        <w:t>5.6 Summary of Embodiments of the Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1847,7 +1993,127 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603826 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751811 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>16</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5.7 Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751812 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>17</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5.8 Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751813 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1889,7 +2155,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6 My 3rd Publication</w:t>
+        <w:t>6 My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1907,7 +2186,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603827 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751814 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1967,7 +2246,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603828 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751815 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2027,7 +2306,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603829 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751816 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2069,7 +2348,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6.3 Literature Review</w:t>
+        <w:t>6.3 Technical Field</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2087,7 +2366,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603830 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751817 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2129,7 +2408,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6.4 Method and Materials</w:t>
+        <w:t>6.4 Background</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2147,7 +2426,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603831 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751818 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2189,7 +2468,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6.5 Results</w:t>
+        <w:t>6.5 Claims</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2207,7 +2486,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603832 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751819 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2249,7 +2528,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6.6 Conclusion</w:t>
+        <w:t>6.6 Summary of Embodiments of the Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2267,7 +2546,128 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603833 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751820 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>6.7 Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751821 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>21</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:sz w:val="22" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:lastRenderedPageBreak />
+        <w:t>6.8 Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751822 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2327,7 +2727,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603834 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751823 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2369,7 +2769,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>References</w:t>
+        <w:t>Bibliography</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2387,7 +2787,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603835 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751824 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2447,7 +2847,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603836 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751825 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2503,7 +2903,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="5" w:name="_Toc152603808" />
+      <w:bookmarkStart w:id="5" w:name="_Toc152751791" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Tables</w:t>
@@ -2553,7 +2953,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360258 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751826 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2613,7 +3013,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360259 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751827 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2673,7 +3073,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360260 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751828 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2690,7 +3090,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>20</w:t>
+        <w:t>21</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2723,7 +3123,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="6" w:name="_Toc152603809" />
+      <w:bookmarkStart w:id="6" w:name="_Toc152751792" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Figures</w:t>
@@ -2773,7 +3173,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360203 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751829 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2833,7 +3233,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360204 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751830 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2893,7 +3293,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360205 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152751831 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2910,7 +3310,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>21</w:t>
+        <w:t>22</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2939,7 +3339,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="7" w:name="_Toc152603810" />
+      <w:bookmarkStart w:id="7" w:name="_Toc152751793" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Introduction</w:t>
@@ -2951,39 +3351,7 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>repudiare</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>theophrastus</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>mei</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve">, vim novum </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>scribentur</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
+        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur </w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="begin" />
@@ -3170,10 +3538,10 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="8" w:name="_Toc152603811" />
+      <w:bookmarkStart w:id="8" w:name="_Toc152751794" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Literature Review</w:t>
+        <w:t>General Overview</w:t>
       </w:r>
       <w:bookmarkEnd w:id="8" />
     </w:p>
@@ -3346,7 +3714,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="9" w:name="_Toc152603812" />
+      <w:bookmarkStart w:id="9" w:name="_Toc152751795" />
       <w:commentRangeStart w:id="10" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -3394,7 +3762,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 1st Publication</w:t>
+        <w:t>My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3439,7 +3816,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 2nd Publication</w:t>
+        <w:t>My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3484,7 +3870,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 3rd Publication</w:t>
+        <w:t>My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3537,7 +3932,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
       <w:r>
-        <w:t xml:space="preserve"> will be submitted to the Data for consideration in their January Issue. Chapter </w:t>
+        <w:t xml:space="preserve"> will be submitted to the USPTO for consideration in January. Chapter </w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="begin" />
@@ -3555,7 +3950,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
       <w:r>
-        <w:t xml:space="preserve"> will be submitted to the Data for consideration in their January Issue. Chapter </w:t>
+        <w:t xml:space="preserve"> will be submitted to the USPTO for consideration in January. Chapter </w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="begin" />
@@ -3573,7 +3968,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
       <w:r>
-        <w:t xml:space="preserve"> will be submitted to the Data4 for consideration in their January Issue.</w:t>
+        <w:t xml:space="preserve"> will be submitted to the USPTO for consideration in January.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -3583,10 +3978,19 @@
       <w:bookmarkStart w:id="11" w:name="_Ref152364815" />
       <w:bookmarkStart w:id="12" w:name="_Ref152364851" />
       <w:bookmarkStart w:id="13" w:name="_Ref152364869" />
-      <w:bookmarkStart w:id="14" w:name="_Toc152603813" />
+      <w:bookmarkStart w:id="14" w:name="_Toc152751796" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 1st Publication</w:t>
+        <w:t>My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
       <w:bookmarkEnd w:id="11" />
       <w:bookmarkEnd w:id="12" />
@@ -3598,7 +4002,16 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 1st Publication</w:t>
+        <w:t>Originally titled: My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -3610,7 +4023,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc152603814" />
+      <w:bookmarkStart w:id="15" w:name="_Toc152751797" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -3628,7 +4041,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="16" w:name="_Toc152603815" />
+      <w:bookmarkStart w:id="16" w:name="_Toc152751798" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -3656,9 +4069,9 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="17" w:name="_Toc152603816" />
+      <w:bookmarkStart w:id="17" w:name="_Toc152751799" />
       <w:r>
-        <w:t>Literature Review</w:t>
+        <w:t>Technical Field</w:t>
       </w:r>
       <w:bookmarkEnd w:id="17" />
     </w:p>
@@ -3695,9 +4108,9 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="18" w:name="_Toc152603817" />
+      <w:bookmarkStart w:id="18" w:name="_Toc152751800" />
       <w:r>
-        <w:t>Method and Materials</w:t>
+        <w:t>Background</w:t>
       </w:r>
       <w:bookmarkEnd w:id="18" />
     </w:p>
@@ -3711,11 +4124,18 @@
     </w:p>
     <w:p>
       <w:pPr>
-        <w:pStyle w:val="Heading3" />
+        <w:ind w:firstLine="0" />
       </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="19" w:name="_Toc152751801" />
       <w:r>
-        <w:t>Data</w:t>
+        <w:t>Claims</w:t>
       </w:r>
+      <w:bookmarkEnd w:id="19" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -3729,11 +4149,30 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="19" w:name="_Toc152603818" />
+      <w:bookmarkStart w:id="20" w:name="_Toc152751802" />
       <w:r>
-        <w:t>Results</w:t>
+        <w:lastRenderedPageBreak />
+        <w:t>Summary of Embodiments of the Invention</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="19" />
+      <w:bookmarkEnd w:id="20" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="21" w:name="_Toc152751803" />
+      <w:r>
+        <w:t>Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="21" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -3748,9 +4187,8 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="20" w:name="_Toc152360258" />
+      <w:bookmarkStart w:id="22" w:name="_Toc152751826" />
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
       <w:fldSimple w:instr=" STYLEREF 1 \s ">
@@ -3775,7 +4213,7 @@
       <w:r>
         <w:t>: Sample Table (#1)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="20" />
+      <w:bookmarkEnd w:id="22" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -4179,7 +4617,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="21" w:name="_Toc152360259" />
+      <w:bookmarkStart w:id="23" w:name="_Toc152751827" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -4205,7 +4643,7 @@
       <w:r>
         <w:t>: Sample Table (#2)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="21" />
+      <w:bookmarkEnd w:id="23" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -4310,6 +4748,7 @@
           </w:tcPr>
           <w:p>
             <w:r>
+              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -4603,12 +5042,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="22" w:name="_Toc152603819" />
+      <w:bookmarkStart w:id="24" w:name="_Toc152751804" />
       <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Conclusion</w:t>
+        <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="22" />
+      <w:bookmarkEnd w:id="24" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -4629,25 +5067,43 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="23" w:name="_Ref152364826" />
-      <w:bookmarkStart w:id="24" w:name="_Ref152364855" />
-      <w:bookmarkStart w:id="25" w:name="_Ref152364864" />
-      <w:bookmarkStart w:id="26" w:name="_Toc152603820" />
+      <w:bookmarkStart w:id="25" w:name="_Ref152364826" />
+      <w:bookmarkStart w:id="26" w:name="_Ref152364855" />
+      <w:bookmarkStart w:id="27" w:name="_Ref152364864" />
+      <w:bookmarkStart w:id="28" w:name="_Toc152751805" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 2nd Publication</w:t>
+        <w:t>My 2</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="23" />
-      <w:bookmarkEnd w:id="24" />
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
+      </w:r>
       <w:bookmarkEnd w:id="25" />
       <w:bookmarkEnd w:id="26" />
+      <w:bookmarkEnd w:id="27" />
+      <w:bookmarkEnd w:id="28" />
     </w:p>
     <w:p>
       <w:pPr>
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 2nd Publication</w:t>
+        <w:t>Originally titled: My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -4659,55 +5115,9 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="27" w:name="_Toc152603821" />
+      <w:bookmarkStart w:id="29" w:name="_Toc152751806" />
       <w:r>
         <w:t>Abstract</w:t>
-      </w:r>
-      <w:bookmarkEnd w:id="27" />
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:ind w:firstLine="0" />
-      </w:pPr>
-      <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="Heading2" />
-      </w:pPr>
-      <w:bookmarkStart w:id="28" w:name="_Toc152603822" />
-      <w:r>
-        <w:t>Introduction</w:t>
-      </w:r>
-      <w:bookmarkEnd w:id="28" />
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:ind w:firstLine="0" />
-      </w:pPr>
-      <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="Heading2" />
-      </w:pPr>
-      <w:bookmarkStart w:id="29" w:name="_Toc152603823" />
-      <w:r>
-        <w:t>Literature Review</w:t>
       </w:r>
       <w:bookmarkEnd w:id="29" />
     </w:p>
@@ -4720,6 +5130,52 @@
       </w:r>
     </w:p>
     <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="30" w:name="_Toc152751807" />
+      <w:r>
+        <w:t>Introduction</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="30" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="31" w:name="_Toc152751808" />
+      <w:r>
+        <w:t>Technical Field</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="31" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
@@ -4744,11 +5200,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="30" w:name="_Toc152603824" />
+      <w:bookmarkStart w:id="32" w:name="_Toc152751809" />
       <w:r>
-        <w:t>Method and Materials</w:t>
+        <w:t>Background</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="30" />
+      <w:bookmarkEnd w:id="32" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -4762,11 +5218,57 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="31" w:name="_Toc152603825" />
+      <w:bookmarkStart w:id="33" w:name="_Toc152751810" />
       <w:r>
-        <w:t>Results</w:t>
+        <w:t>Claims</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="31" />
+      <w:bookmarkEnd w:id="33" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="34" w:name="_Toc152751811" />
+      <w:r>
+        <w:t>Summary of Embodiments of the Invention</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="34" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="35" w:name="_Toc152751812" />
+      <w:r>
+        <w:t>Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="35" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -4785,9 +5287,8 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2163345D" wp14:editId="75DC86F5">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0A944379" wp14:editId="74ED429C">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="654900084" name="Picture 1" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -4833,7 +5334,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="32" w:name="_Toc152360203" />
+      <w:bookmarkStart w:id="36" w:name="_Toc152751829" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4859,7 +5360,7 @@
       <w:r>
         <w:t>: Sample Figure (#1)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="32" />
+      <w:bookmarkEnd w:id="36" />
     </w:p>
     <w:p>
       <w:r>
@@ -4877,7 +5378,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="28326788" wp14:editId="30BA9011">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4D2149B7" wp14:editId="1115D2D1">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1045535679" name="Picture 2" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -4923,7 +5424,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="33" w:name="_Toc152360204" />
+      <w:bookmarkStart w:id="37" w:name="_Toc152751830" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4949,17 +5450,17 @@
       <w:r>
         <w:t>: Sample Figure (#2)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="33" />
+      <w:bookmarkEnd w:id="37" />
     </w:p>
     <w:p>
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="34" w:name="_Toc152603826" />
+      <w:bookmarkStart w:id="38" w:name="_Toc152751813" />
       <w:r>
-        <w:t>Conclusion</w:t>
+        <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="34" />
+      <w:bookmarkEnd w:id="38" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -4980,25 +5481,43 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="35" w:name="_Ref152364836" />
-      <w:bookmarkStart w:id="36" w:name="_Ref152364880" />
-      <w:bookmarkStart w:id="37" w:name="_Ref152364886" />
-      <w:bookmarkStart w:id="38" w:name="_Toc152603827" />
+      <w:bookmarkStart w:id="39" w:name="_Ref152364836" />
+      <w:bookmarkStart w:id="40" w:name="_Ref152364880" />
+      <w:bookmarkStart w:id="41" w:name="_Ref152364886" />
+      <w:bookmarkStart w:id="42" w:name="_Toc152751814" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 3rd Publication</w:t>
+        <w:t>My 3</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="35" />
-      <w:bookmarkEnd w:id="36" />
-      <w:bookmarkEnd w:id="37" />
-      <w:bookmarkEnd w:id="38" />
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="39" />
+      <w:bookmarkEnd w:id="40" />
+      <w:bookmarkEnd w:id="41" />
+      <w:bookmarkEnd w:id="42" />
     </w:p>
     <w:p>
       <w:pPr>
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 3rd Publication</w:t>
+        <w:t>Originally titled: My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Patent</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -5010,11 +5529,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="39" w:name="_Toc152603828" />
+      <w:bookmarkStart w:id="43" w:name="_Toc152751815" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="39" />
+      <w:bookmarkEnd w:id="43" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5028,11 +5547,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="40" w:name="_Toc152603829" />
+      <w:bookmarkStart w:id="44" w:name="_Toc152751816" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="40" />
+      <w:bookmarkEnd w:id="44" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5056,11 +5575,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="41" w:name="_Toc152603830" />
+      <w:bookmarkStart w:id="45" w:name="_Toc152751817" />
       <w:r>
-        <w:t>Literature Review</w:t>
+        <w:t>Technical Field</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="41" />
+      <w:bookmarkEnd w:id="45" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5095,11 +5614,11 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="42" w:name="_Toc152603831" />
+      <w:bookmarkStart w:id="46" w:name="_Toc152751818" />
       <w:r>
-        <w:t>Method and Materials</w:t>
+        <w:t>Background</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="42" />
+      <w:bookmarkEnd w:id="46" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5113,11 +5632,52 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="43" w:name="_Toc152603832" />
+      <w:bookmarkStart w:id="47" w:name="_Toc152751819" />
       <w:r>
-        <w:t>Results</w:t>
+        <w:t>Claims</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="43" />
+      <w:bookmarkEnd w:id="47" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="48" w:name="_Toc152751820" />
+      <w:r>
+        <w:t>Summary of Embodiments of the Invention</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="48" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading2" />
+      </w:pPr>
+      <w:bookmarkStart w:id="49" w:name="_Toc152751821" />
+      <w:r>
+        <w:t>Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="49" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5132,7 +5692,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="44" w:name="_Toc152360260" />
+      <w:bookmarkStart w:id="50" w:name="_Toc152751828" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -5158,7 +5718,7 @@
       <w:r>
         <w:t>: Sample Table (#3)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="44" />
+      <w:bookmarkEnd w:id="50" />
     </w:p>
     <w:tbl>
       <w:tblPr>
@@ -5305,7 +5865,6 @@
           </w:tcPr>
           <w:p>
             <w:r>
-              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -5567,8 +6126,9 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
+        <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0035B6D8" wp14:editId="27B427B4">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0D454D88" wp14:editId="36BC1753">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5614,7 +6174,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="45" w:name="_Toc152360205" />
+      <w:bookmarkStart w:id="51" w:name="_Toc152751831" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -5640,18 +6200,17 @@
       <w:r>
         <w:t>: Sample Figure (#3)</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="45" />
+      <w:bookmarkEnd w:id="51" />
     </w:p>
     <w:p>
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="46" w:name="_Toc152603833" />
+      <w:bookmarkStart w:id="52" w:name="_Toc152751822" />
       <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Conclusion</w:t>
+        <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="46" />
+      <w:bookmarkEnd w:id="52" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5676,12 +6235,12 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="47" w:name="_Toc152603834" />
+      <w:bookmarkStart w:id="53" w:name="_Toc152751823" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="47" />
+      <w:bookmarkEnd w:id="53" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5856,13 +6415,13 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="48" w:name="_Toc152603835" />
-      <w:commentRangeStart w:id="49" />
+      <w:bookmarkStart w:id="54" w:name="_Toc152751824" />
+      <w:commentRangeStart w:id="55" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>References</w:t>
+        <w:t>Bibliography</w:t>
       </w:r>
-      <w:commentRangeEnd w:id="49" />
+      <w:commentRangeEnd w:id="55" />
       <w:r>
         <w:rPr>
           <w:rStyle w:val="CommentReference" />
@@ -5871,9 +6430,9 @@
           <w:kern w:val="2" />
           <w14:ligatures w14:val="standardContextual" />
         </w:rPr>
-        <w:commentReference w:id="49" />
+        <w:commentReference w:id="55" />
       </w:r>
-      <w:bookmarkEnd w:id="48" />
+      <w:bookmarkEnd w:id="54" />
     </w:p>
     <w:p>
       <w:pPr>
@@ -5939,12 +6498,12 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="50" w:name="_Toc152603836" />
+      <w:bookmarkStart w:id="56" w:name="_Toc152751825" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
       </w:r>
-      <w:bookmarkEnd w:id="50" />
+      <w:bookmarkEnd w:id="56" />
     </w:p>
     <w:sectPr>
       <w:type w:val="oddPage" />

@@ -108,7 +108,7 @@
       </w:r>
     </w:p>
   </w:comment>
-  <w:comment w:id="49" w:author="mark newman" w:date="2023-01-01T00:00:00Z" w:initials="mn">
+  <w:comment w:id="55" w:author="mark newman" w:date="2023-01-01T00:00:00Z" w:initials="mn">
     <w:p>
       <w:pPr>
         <w:pStyle w:val="CommentText" />
@@ -122,7 +122,7 @@
         <w:annotationRef />
       </w:r>
       <w:r>
-        <w:t>References should be in APA 7. The one that is here is implemented in Zotero.</w:t>
+        <w:t>Journals use references. Patents use bibliography. The bibliography should be in APA 7. The one that is here is implemented in Zotero.</w:t>
       </w:r>
     </w:p>
   </w:comment>
