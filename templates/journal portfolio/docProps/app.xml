@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
-  <Template>base.dotx</Template>
+  <Template>journal portfolio.dotx</Template>
   <TotalTime>0</TotalTime>
   <Pages>47</Pages>
-  <Words>5859</Words>
-  <Characters>33399</Characters>
+  <Words>6404</Words>
+  <Characters>36506</Characters>
   <Application>Microsoft Office Word</Application>
   <DocSecurity>0</DocSecurity>
-  <Lines>278</Lines>
-  <Paragraphs>78</Paragraphs>
+  <Lines>304</Lines>
+  <Paragraphs>85</Paragraphs>
   <ScaleCrop>false</ScaleCrop>
   <HeadingPairs>
     <vt:vector size="2" baseType="variant">
@@ -29,7 +29,7 @@
   <Company>
   </Company>
   <LinksUpToDate>false</LinksUpToDate>
-  <CharactersWithSpaces>39180</CharactersWithSpaces>
+  <CharactersWithSpaces>42825</CharactersWithSpaces>
   <SharedDoc>false</SharedDoc>
   <HyperlinksChanged>false</HyperlinksChanged>
   <AppVersion>16.0000</AppVersion>

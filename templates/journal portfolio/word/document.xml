@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="515CCF6D" wp14:editId="708E626F">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="0E868440" wp14:editId="598C3AFA">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -767,7 +767,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603808 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750729 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -827,7 +827,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603809 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750730 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -887,7 +887,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603810 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750731 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -947,7 +947,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603811 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750732 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1007,7 +1007,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603812 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750733 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1049,7 +1049,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>4 My 1st Publication</w:t>
+        <w:t>4 My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1067,7 +1080,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603813 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750734 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1127,7 +1140,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603814 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750735 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1187,7 +1200,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603815 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750736 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1247,7 +1260,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603816 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750737 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1307,7 +1320,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603817 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750738 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1367,7 +1380,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603818 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750739 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1427,7 +1440,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603819 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750740 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1469,7 +1482,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5 My 2nd Publication</w:t>
+        <w:t>5 My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1487,7 +1513,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603820 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750741 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1547,7 +1573,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603821 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750742 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1607,7 +1633,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603822 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750743 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1667,7 +1693,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603823 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750744 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1727,7 +1753,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603824 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750745 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1787,7 +1813,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603825 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750746 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1847,7 +1873,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603826 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750747 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1889,7 +1915,20 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6 My 3rd Publication</w:t>
+        <w:t>6 My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1907,7 +1946,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603827 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750748 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1967,7 +2006,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603828 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750749 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2027,7 +2066,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603829 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750750 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2087,7 +2126,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603830 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750751 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2147,7 +2186,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603831 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750752 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2207,7 +2246,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603832 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750753 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2267,7 +2306,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603833 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750754 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2327,7 +2366,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603834 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750755 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2387,7 +2426,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603835 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750756 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2447,7 +2486,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152603836 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750757 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2503,7 +2542,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="5" w:name="_Toc152603808" />
+      <w:bookmarkStart w:id="5" w:name="_Toc152750729" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Tables</w:t>
@@ -2553,7 +2592,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360258 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750758 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2613,7 +2652,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360259 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750759 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2673,7 +2712,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360260 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750760 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2723,7 +2762,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="6" w:name="_Toc152603809" />
+      <w:bookmarkStart w:id="6" w:name="_Toc152750730" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Figures</w:t>
@@ -2773,7 +2812,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360203 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750761 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2833,7 +2872,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360204 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750762 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2893,7 +2932,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152360205 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc152750763 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2939,7 +2978,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="7" w:name="_Toc152603810" />
+      <w:bookmarkStart w:id="7" w:name="_Toc152750731" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Introduction</w:t>
@@ -3170,7 +3209,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="8" w:name="_Toc152603811" />
+      <w:bookmarkStart w:id="8" w:name="_Toc152750732" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Literature Review</w:t>
@@ -3346,7 +3385,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="9" w:name="_Toc152603812" />
+      <w:bookmarkStart w:id="9" w:name="_Toc152750733" />
       <w:commentRangeStart w:id="10" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -3394,7 +3433,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 1st Publication</w:t>
+        <w:t>My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3439,7 +3487,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 2nd Publication</w:t>
+        <w:t>My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3484,7 +3541,16 @@
         <w:fldChar w:fldCharType="separate" />
       </w:r>
       <w:r>
-        <w:t>My 3rd Publication</w:t>
+        <w:t>My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> Publication</w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="end" />
@@ -3573,7 +3639,7 @@
         <w:fldChar w:fldCharType="end" />
       </w:r>
       <w:r>
-        <w:t xml:space="preserve"> will be submitted to the Data4 for consideration in their January Issue.</w:t>
+        <w:t xml:space="preserve"> will be submitted to the Data for consideration in their January Issue.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -3583,10 +3649,22 @@
       <w:bookmarkStart w:id="11" w:name="_Ref152364815" />
       <w:bookmarkStart w:id="12" w:name="_Ref152364851" />
       <w:bookmarkStart w:id="13" w:name="_Ref152364869" />
-      <w:bookmarkStart w:id="14" w:name="_Toc152603813" />
+      <w:bookmarkStart w:id="14" w:name="_Toc152750734" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 1st Publication</w:t>
+        <w:t>My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
       <w:bookmarkEnd w:id="11" />
       <w:bookmarkEnd w:id="12" />
@@ -3598,7 +3676,19 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 1st Publication</w:t>
+        <w:t>Originally titled: My 1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>st</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -3610,7 +3700,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc152603814" />
+      <w:bookmarkStart w:id="15" w:name="_Toc152750735" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -3628,7 +3718,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="16" w:name="_Toc152603815" />
+      <w:bookmarkStart w:id="16" w:name="_Toc152750736" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -3656,7 +3746,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="17" w:name="_Toc152603816" />
+      <w:bookmarkStart w:id="17" w:name="_Toc152750737" />
       <w:r>
         <w:t>Literature Review</w:t>
       </w:r>
@@ -3695,7 +3785,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="18" w:name="_Toc152603817" />
+      <w:bookmarkStart w:id="18" w:name="_Toc152750738" />
       <w:r>
         <w:t>Method and Materials</w:t>
       </w:r>
@@ -3729,7 +3819,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="19" w:name="_Toc152603818" />
+      <w:bookmarkStart w:id="19" w:name="_Toc152750739" />
       <w:r>
         <w:t>Results</w:t>
       </w:r>
@@ -3748,7 +3838,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="20" w:name="_Toc152360258" />
+      <w:bookmarkStart w:id="20" w:name="_Toc152750758" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t xml:space="preserve">Table </w:t>
@@ -4179,7 +4269,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="21" w:name="_Toc152360259" />
+      <w:bookmarkStart w:id="21" w:name="_Toc152750759" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -4603,7 +4693,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="22" w:name="_Toc152603819" />
+      <w:bookmarkStart w:id="22" w:name="_Toc152750740" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
@@ -4632,10 +4722,22 @@
       <w:bookmarkStart w:id="23" w:name="_Ref152364826" />
       <w:bookmarkStart w:id="24" w:name="_Ref152364855" />
       <w:bookmarkStart w:id="25" w:name="_Ref152364864" />
-      <w:bookmarkStart w:id="26" w:name="_Toc152603820" />
+      <w:bookmarkStart w:id="26" w:name="_Toc152750741" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 2nd Publication</w:t>
+        <w:t>My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
       <w:bookmarkEnd w:id="23" />
       <w:bookmarkEnd w:id="24" />
@@ -4647,7 +4749,19 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 2nd Publication</w:t>
+        <w:t>Originally titled: My 2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>nd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -4659,7 +4773,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="27" w:name="_Toc152603821" />
+      <w:bookmarkStart w:id="27" w:name="_Toc152750742" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -4677,7 +4791,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="28" w:name="_Toc152603822" />
+      <w:bookmarkStart w:id="28" w:name="_Toc152750743" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -4705,7 +4819,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="29" w:name="_Toc152603823" />
+      <w:bookmarkStart w:id="29" w:name="_Toc152750744" />
       <w:r>
         <w:t>Literature Review</w:t>
       </w:r>
@@ -4744,7 +4858,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="30" w:name="_Toc152603824" />
+      <w:bookmarkStart w:id="30" w:name="_Toc152750745" />
       <w:r>
         <w:t>Method and Materials</w:t>
       </w:r>
@@ -4762,7 +4876,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="31" w:name="_Toc152603825" />
+      <w:bookmarkStart w:id="31" w:name="_Toc152750746" />
       <w:r>
         <w:t>Results</w:t>
       </w:r>
@@ -4787,7 +4901,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2163345D" wp14:editId="75DC86F5">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="73BF7DB5" wp14:editId="14467062">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="654900084" name="Picture 1" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -4833,7 +4947,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="32" w:name="_Toc152360203" />
+      <w:bookmarkStart w:id="32" w:name="_Toc152750761" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4877,7 +4991,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="28326788" wp14:editId="30BA9011">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="6D521B2B" wp14:editId="01E929F9">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1045535679" name="Picture 2" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -4923,7 +5037,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="33" w:name="_Toc152360204" />
+      <w:bookmarkStart w:id="33" w:name="_Toc152750762" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -4955,7 +5069,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="34" w:name="_Toc152603826" />
+      <w:bookmarkStart w:id="34" w:name="_Toc152750747" />
       <w:r>
         <w:t>Conclusion</w:t>
       </w:r>
@@ -4983,10 +5097,22 @@
       <w:bookmarkStart w:id="35" w:name="_Ref152364836" />
       <w:bookmarkStart w:id="36" w:name="_Ref152364880" />
       <w:bookmarkStart w:id="37" w:name="_Ref152364886" />
-      <w:bookmarkStart w:id="38" w:name="_Toc152603827" />
+      <w:bookmarkStart w:id="38" w:name="_Toc152750748" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>My 3rd Publication</w:t>
+        <w:t>My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
       <w:bookmarkEnd w:id="35" />
       <w:bookmarkEnd w:id="36" />
@@ -4998,7 +5124,19 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Originally titled: My 3rd Publication</w:t>
+        <w:t>Originally titled: My 3</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:vertAlign w:val="superscript" />
+        </w:rPr>
+        <w:t>rd</w:t>
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:t>Publication</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -5010,7 +5148,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="39" w:name="_Toc152603828" />
+      <w:bookmarkStart w:id="39" w:name="_Toc152750749" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -5028,7 +5166,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="40" w:name="_Toc152603829" />
+      <w:bookmarkStart w:id="40" w:name="_Toc152750750" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -5056,7 +5194,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="41" w:name="_Toc152603830" />
+      <w:bookmarkStart w:id="41" w:name="_Toc152750751" />
       <w:r>
         <w:t>Literature Review</w:t>
       </w:r>
@@ -5095,7 +5233,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="42" w:name="_Toc152603831" />
+      <w:bookmarkStart w:id="42" w:name="_Toc152750752" />
       <w:r>
         <w:t>Method and Materials</w:t>
       </w:r>
@@ -5113,7 +5251,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="43" w:name="_Toc152603832" />
+      <w:bookmarkStart w:id="43" w:name="_Toc152750753" />
       <w:r>
         <w:t>Results</w:t>
       </w:r>
@@ -5132,7 +5270,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="44" w:name="_Toc152360260" />
+      <w:bookmarkStart w:id="44" w:name="_Toc152750760" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -5568,7 +5706,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0035B6D8" wp14:editId="27B427B4">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="68FBF7EB" wp14:editId="2562D0A3">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5614,7 +5752,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="45" w:name="_Toc152360205" />
+      <w:bookmarkStart w:id="45" w:name="_Toc152750763" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -5646,7 +5784,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="46" w:name="_Toc152603833" />
+      <w:bookmarkStart w:id="46" w:name="_Toc152750754" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
@@ -5676,7 +5814,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="47" w:name="_Toc152603834" />
+      <w:bookmarkStart w:id="47" w:name="_Toc152750755" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
@@ -5856,7 +5994,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="48" w:name="_Toc152603835" />
+      <w:bookmarkStart w:id="48" w:name="_Toc152750756" />
       <w:commentRangeStart w:id="49" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -5939,7 +6077,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="50" w:name="_Toc152603836" />
+      <w:bookmarkStart w:id="50" w:name="_Toc152750757" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
