@@ -2053,23 +2053,7 @@
         </w:sectPr>
       </w:pPr>
       <w:r>
-        <w:t xml:space="preserve">Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>mea</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>eu</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantu, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -2079,13 +2063,7 @@
       <w:bookmarkStart w:id="10" w:name="_Toc152606110" />
       <w:r>
         <w:lastRenderedPageBreak />
-        <w:t>Clai</w:t>
-      </w:r>
-      <w:r>
-        <w:t>m</w:t>
-      </w:r>
-      <w:r>
-        <w:t>s</w:t>
+        <w:t>Claims</w:t>
       </w:r>
       <w:bookmarkEnd w:id="10" />
     </w:p>
