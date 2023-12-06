@@ -6,19 +6,29 @@ Legacy versions exist for [HTML version](https://github.com/HarrisburgUniversity
 Please note that those versions are _legacy_.
 It is unlikely that future updates will be made to them.
 
-# Requirements
+# How do I use the templates?
 
-For Users
+Requirements
 
 * Microsoft Word
 
-For Developers
+Steps
 
+1. Select your dissertation format: classic, journal portfolio, patent, patent portfolio.
+   Your advisor will help you select the correct one based on your scope, timeline, and deliverables.
+2. Download the latest version from the "Releases" section found on the right hand side.
+3. Enjoy.
+
+# How to I update the template?
+
+Requirements
+
+* Microsoft Word
 * [VS Code](https://code.visualstudio.com/)
 * [7-Zip](https://www.7-zip.org/)
 * [Computer Modern](https://www.fontsquirrel.com/fonts/computer-modern) font 
 
-# How to update the template
+Steps
 
 _.dotx_ files are _pkzip_ files with a different extension.
 _pkzip_ files are binary, so they don't work well with Git.
