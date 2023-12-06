@@ -242,6 +242,10 @@
         <w:br />
         <w:t>All Rights Reserved</w:t>
       </w:r>
+      <w:r>
+        <w:br />
+        <w:t>Template v3.0</w:t>
+      </w:r>
     </w:p>
     <w:p>
       <w:pPr>
@@ -2990,39 +2994,7 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>repudiare</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>theophrastus</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>mei</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve">, vim novum </w:t>
-      </w:r>
-      <w:proofErr w:type="spellStart" />
-      <w:r>
-        <w:t>scribentur</w:t>
-      </w:r>
-      <w:proofErr w:type="spellEnd" />
-      <w:r>
-        <w:t xml:space="preserve"> </w:t>
+        <w:t xml:space="preserve">Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur </w:t>
       </w:r>
       <w:r>
         <w:fldChar w:fldCharType="begin" />
