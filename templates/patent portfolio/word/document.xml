@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="55C3A524" wp14:editId="4DA33E27">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="0868D769" wp14:editId="391C90D7">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -728,12 +728,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -767,7 +767,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751791 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040257 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -797,12 +797,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -827,7 +827,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751792 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040258 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -844,7 +844,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>v</w:t>
+        <w:t>iv</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -857,12 +857,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -887,7 +887,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751793 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040259 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -917,12 +917,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -947,7 +947,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751794 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040260 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -977,12 +977,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1007,7 +1007,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751795 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040261 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1037,12 +1037,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1080,7 +1080,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751796 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040262 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1097,7 +1097,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>11</w:t>
+        <w:t>10</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1110,12 +1110,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1140,7 +1140,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751797 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040263 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1157,7 +1157,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>11</w:t>
+        <w:t>10</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1170,12 +1170,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1200,7 +1200,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751798 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040264 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1217,7 +1217,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>11</w:t>
+        <w:t>10</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1230,12 +1230,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1260,7 +1260,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751799 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040265 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>10</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4.4 Background</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040266 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1290,72 +1350,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>4.4 Background</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751800 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>12</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1380,7 +1380,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751801 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040267 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>11</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4.6 Summary of Embodiments of the Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040268 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1410,72 +1470,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>4.6 Summary of Embodiments of the Invention</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751802 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>13</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1500,7 +1500,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751803 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040269 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>12</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4.8 Detailed Description of Embodiments Invention</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040270 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1528,74 +1588,14 @@
     </w:p>
     <w:p>
       <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>4.8 Detailed Description of Embodiments Invention</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751804 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>14</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1633,7 +1633,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751805 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040271 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1650,7 +1650,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>15</w:t>
+        <w:t>14</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1663,12 +1663,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1693,7 +1693,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751806 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040272 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1710,7 +1710,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>15</w:t>
+        <w:t>14</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1723,12 +1723,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1753,7 +1753,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751807 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040273 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1770,7 +1770,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>15</w:t>
+        <w:t>14</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1783,12 +1783,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1813,7 +1813,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751808 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040274 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>14</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5.4 Background</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040275 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1843,72 +1903,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>5.4 Background</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751809 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>16</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1933,7 +1933,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751810 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040276 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1950,7 +1950,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>16</w:t>
+        <w:t>15</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1963,12 +1963,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -1993,7 +1993,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751811 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040277 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>15</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5.7 Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040278 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2023,19 +2083,19 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5.7 Brief Description of the Drawings</w:t>
+        <w:t>5.8 Detailed Description of Embodiments Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2053,7 +2113,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751812 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040279 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2081,74 +2141,14 @@
     </w:p>
     <w:p>
       <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>5.8 Detailed Description of Embodiments Invention</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751813 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>18</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2186,7 +2186,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751814 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040280 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2203,7 +2203,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>19</w:t>
+        <w:t>18</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2216,12 +2216,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2246,7 +2246,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751815 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040281 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2263,7 +2263,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>19</w:t>
+        <w:t>18</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2276,12 +2276,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2306,7 +2306,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751816 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040282 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2323,7 +2323,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>19</w:t>
+        <w:t>18</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2336,12 +2336,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2366,7 +2366,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751817 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040283 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>18</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>6.4 Background</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040284 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2396,72 +2456,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>6.4 Background</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751818 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>20</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC2" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2486,7 +2486,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751819 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040285 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2503,7 +2503,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>20</w:t>
+        <w:t>19</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2516,12 +2516,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2546,7 +2546,67 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751820 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040286 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>19</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC2" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>6.7 Brief Description of the Drawings</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040287 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2576,19 +2636,20 @@
       <w:pPr>
         <w:pStyle w:val="TOC2" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6.7 Brief Description of the Drawings</w:t>
+        <w:lastRenderedPageBreak />
+        <w:t>6.8 Detailed Description of Embodiments Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2606,7 +2667,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751821 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040288 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2634,22 +2695,21 @@
     </w:p>
     <w:p>
       <w:pPr>
-        <w:pStyle w:val="TOC2" />
+        <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:lastRenderedPageBreak />
-        <w:t>6.8 Detailed Description of Embodiments Invention</w:t>
+        <w:t>7 Conclusion</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2667,7 +2727,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751822 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040289 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2697,72 +2757,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>7 Conclusion</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751823 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>23</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC1" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2787,7 +2787,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751824 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040290 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2804,7 +2804,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>27</w:t>
+        <w:t>26</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2817,12 +2817,12 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2847,7 +2847,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751825 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040291 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2864,7 +2864,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>29</w:t>
+        <w:t>27</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2902,7 +2902,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="5" w:name="_Toc152751791" />
+      <w:bookmarkStart w:id="5" w:name="_Toc163040257" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Tables</w:t>
@@ -2913,12 +2913,12 @@
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -2952,7 +2952,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751826 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040292 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2969,7 +2969,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>13</w:t>
+        <w:t>12</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -2982,12 +2982,12 @@
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -3012,7 +3012,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751827 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040293 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -3029,7 +3029,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>13</w:t>
+        <w:t>12</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -3042,12 +3042,12 @@
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
           <w:noProof />
-          <w:sz w:val="22" />
+          <w:szCs w:val="24" />
         </w:rPr>
       </w:pPr>
       <w:r>
@@ -3072,7 +3072,226 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751828 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040294 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:ind w:firstLine="0" />
+        <w:sectPr>
+          <w:pgSz w:w="12240" w:h="15840" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgNumType w:fmt="lowerRoman" />
+          <w:cols w:space="720" />
+          <w:docGrid w:linePitch="360" />
+        </w:sectPr>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="Heading1" />
+        <w:numPr>
+          <w:ilvl w:val="0" />
+          <w:numId w:val="0" />
+        </w:numPr>
+      </w:pPr>
+      <w:bookmarkStart w:id="6" w:name="_Toc163040258" />
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>List of Figures</w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="6" />
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> TOC \c "Figure" </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Figure 5.1: Sample Figure (#1)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040295 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>16</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Figure 5.2: Sample Figure (#2)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040296 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>17</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TableofFigures" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Figure 6.1: Sample Figure (#3)</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163040297 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -3116,227 +3335,8 @@
     <w:p>
       <w:pPr>
         <w:pStyle w:val="Heading1" />
-        <w:numPr>
-          <w:ilvl w:val="0" />
-          <w:numId w:val="0" />
-        </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="6" w:name="_Toc152751792" />
-      <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>List of Figures</w:t>
-      </w:r>
-      <w:bookmarkEnd w:id="6" />
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TableofFigures" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:instrText xml:space="preserve"> TOC \c "Figure" </w:instrText>
-      </w:r>
-      <w:r>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Figure 5.1: Sample Figure (#1)</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751829 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>17</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TableofFigures" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Figure 5.2: Sample Figure (#2)</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751830 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>18</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TableofFigures" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10070" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:sz w:val="22" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>Figure 6.1: Sample Figure (#3)</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc152751831 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>22</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:ind w:firstLine="0" />
-        <w:sectPr>
-          <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
-          <w:pgNumType w:fmt="lowerRoman" />
-          <w:cols w:space="720" />
-          <w:docGrid w:linePitch="360" />
-        </w:sectPr>
-      </w:pPr>
-      <w:r>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="Heading1" />
-      </w:pPr>
-      <w:bookmarkStart w:id="7" w:name="_Toc152751793" />
+      <w:bookmarkStart w:id="7" w:name="_Toc163040259" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Introduction</w:t>
@@ -3534,7 +3534,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="8" w:name="_Toc152751794" />
+      <w:bookmarkStart w:id="8" w:name="_Toc163040260" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>General Overview</w:t>
@@ -3709,7 +3709,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="9" w:name="_Toc152751795" />
+      <w:bookmarkStart w:id="9" w:name="_Toc163040261" />
       <w:commentRangeStart w:id="10" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -3972,7 +3972,7 @@
       <w:bookmarkStart w:id="11" w:name="_Ref152364815" />
       <w:bookmarkStart w:id="12" w:name="_Ref152364851" />
       <w:bookmarkStart w:id="13" w:name="_Ref152364869" />
-      <w:bookmarkStart w:id="14" w:name="_Toc152751796" />
+      <w:bookmarkStart w:id="14" w:name="_Toc163040262" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>My 1</w:t>
@@ -4017,7 +4017,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc152751797" />
+      <w:bookmarkStart w:id="15" w:name="_Toc163040263" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -4035,7 +4035,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="16" w:name="_Toc152751798" />
+      <w:bookmarkStart w:id="16" w:name="_Toc163040264" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -4063,7 +4063,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="17" w:name="_Toc152751799" />
+      <w:bookmarkStart w:id="17" w:name="_Toc163040265" />
       <w:r>
         <w:t>Technical Field</w:t>
       </w:r>
@@ -4102,7 +4102,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="18" w:name="_Toc152751800" />
+      <w:bookmarkStart w:id="18" w:name="_Toc163040266" />
       <w:r>
         <w:t>Background</w:t>
       </w:r>
@@ -4125,7 +4125,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="19" w:name="_Toc152751801" />
+      <w:bookmarkStart w:id="19" w:name="_Toc163040267" />
       <w:r>
         <w:t>Claims</w:t>
       </w:r>
@@ -4143,7 +4143,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="20" w:name="_Toc152751802" />
+      <w:bookmarkStart w:id="20" w:name="_Toc163040268" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Summary of Embodiments of the Invention</w:t>
@@ -4162,7 +4162,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="21" w:name="_Toc152751803" />
+      <w:bookmarkStart w:id="21" w:name="_Toc163040269" />
       <w:r>
         <w:t>Brief Description of the Drawings</w:t>
       </w:r>
@@ -4181,29 +4181,55 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="22" w:name="_Toc152751826" />
+      <w:bookmarkStart w:id="22" w:name="_Toc163040292" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>4</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>1</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Table \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Table (#1)</w:t>
       </w:r>
@@ -4611,29 +4637,55 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="23" w:name="_Toc152751827" />
+      <w:bookmarkStart w:id="23" w:name="_Toc163040293" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>4</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>4</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>2</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Table \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Table (#2)</w:t>
       </w:r>
@@ -4742,7 +4794,6 @@
           </w:tcPr>
           <w:p>
             <w:r>
-              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -4785,6 +4836,7 @@
           </w:tcPr>
           <w:p>
             <w:r>
+              <w:lastRenderedPageBreak />
               <w:t>Female</w:t>
             </w:r>
           </w:p>
@@ -5036,7 +5088,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="24" w:name="_Toc152751804" />
+      <w:bookmarkStart w:id="24" w:name="_Toc163040270" />
       <w:r>
         <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
@@ -5063,7 +5115,7 @@
       <w:bookmarkStart w:id="25" w:name="_Ref152364826" />
       <w:bookmarkStart w:id="26" w:name="_Ref152364855" />
       <w:bookmarkStart w:id="27" w:name="_Ref152364864" />
-      <w:bookmarkStart w:id="28" w:name="_Toc152751805" />
+      <w:bookmarkStart w:id="28" w:name="_Toc163040271" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>My 2</w:t>
@@ -5108,7 +5160,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="29" w:name="_Toc152751806" />
+      <w:bookmarkStart w:id="29" w:name="_Toc163040272" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -5126,7 +5178,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="30" w:name="_Toc152751807" />
+      <w:bookmarkStart w:id="30" w:name="_Toc163040273" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -5154,7 +5206,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="31" w:name="_Toc152751808" />
+      <w:bookmarkStart w:id="31" w:name="_Toc163040274" />
       <w:r>
         <w:t>Technical Field</w:t>
       </w:r>
@@ -5193,7 +5245,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="32" w:name="_Toc152751809" />
+      <w:bookmarkStart w:id="32" w:name="_Toc163040275" />
       <w:r>
         <w:t>Background</w:t>
       </w:r>
@@ -5211,7 +5263,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="33" w:name="_Toc152751810" />
+      <w:bookmarkStart w:id="33" w:name="_Toc163040276" />
       <w:r>
         <w:t>Claims</w:t>
       </w:r>
@@ -5229,7 +5281,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="34" w:name="_Toc152751811" />
+      <w:bookmarkStart w:id="34" w:name="_Toc163040277" />
       <w:r>
         <w:t>Summary of Embodiments of the Invention</w:t>
       </w:r>
@@ -5257,7 +5309,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="35" w:name="_Toc152751812" />
+      <w:bookmarkStart w:id="35" w:name="_Toc163040278" />
       <w:r>
         <w:t>Brief Description of the Drawings</w:t>
       </w:r>
@@ -5281,7 +5333,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0A944379" wp14:editId="74ED429C">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="17ED5CB4" wp14:editId="080A1BA4">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="654900084" name="Picture 1" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5327,29 +5379,55 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="36" w:name="_Toc152751829" />
+      <w:bookmarkStart w:id="36" w:name="_Toc163040295" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>5</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Figure \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>1</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Figure \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Figure (#1)</w:t>
       </w:r>
@@ -5371,7 +5449,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4D2149B7" wp14:editId="1115D2D1">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="06D3298A" wp14:editId="6DED4721">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1045535679" name="Picture 2" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -5417,29 +5495,55 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="37" w:name="_Toc152751830" />
+      <w:bookmarkStart w:id="37" w:name="_Toc163040296" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>5</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>5</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Figure \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>2</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Figure \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>2</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Figure (#2)</w:t>
       </w:r>
@@ -5449,7 +5553,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="38" w:name="_Toc152751813" />
+      <w:bookmarkStart w:id="38" w:name="_Toc163040279" />
       <w:r>
         <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
@@ -5476,7 +5580,7 @@
       <w:bookmarkStart w:id="39" w:name="_Ref152364836" />
       <w:bookmarkStart w:id="40" w:name="_Ref152364880" />
       <w:bookmarkStart w:id="41" w:name="_Ref152364886" />
-      <w:bookmarkStart w:id="42" w:name="_Toc152751814" />
+      <w:bookmarkStart w:id="42" w:name="_Toc163040280" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>My 3</w:t>
@@ -5521,7 +5625,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="43" w:name="_Toc152751815" />
+      <w:bookmarkStart w:id="43" w:name="_Toc163040281" />
       <w:r>
         <w:t>Abstract</w:t>
       </w:r>
@@ -5539,7 +5643,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="44" w:name="_Toc152751816" />
+      <w:bookmarkStart w:id="44" w:name="_Toc163040282" />
       <w:r>
         <w:t>Introduction</w:t>
       </w:r>
@@ -5567,7 +5671,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="45" w:name="_Toc152751817" />
+      <w:bookmarkStart w:id="45" w:name="_Toc163040283" />
       <w:r>
         <w:t>Technical Field</w:t>
       </w:r>
@@ -5606,7 +5710,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="46" w:name="_Toc152751818" />
+      <w:bookmarkStart w:id="46" w:name="_Toc163040284" />
       <w:r>
         <w:t>Background</w:t>
       </w:r>
@@ -5624,7 +5728,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="47" w:name="_Toc152751819" />
+      <w:bookmarkStart w:id="47" w:name="_Toc163040285" />
       <w:r>
         <w:t>Claims</w:t>
       </w:r>
@@ -5642,7 +5746,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="48" w:name="_Toc152751820" />
+      <w:bookmarkStart w:id="48" w:name="_Toc163040286" />
       <w:r>
         <w:t>Summary of Embodiments of the Invention</w:t>
       </w:r>
@@ -5665,7 +5769,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="49" w:name="_Toc152751821" />
+      <w:bookmarkStart w:id="49" w:name="_Toc163040287" />
       <w:r>
         <w:t>Brief Description of the Drawings</w:t>
       </w:r>
@@ -5684,29 +5788,55 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="50" w:name="_Toc152751828" />
+      <w:bookmarkStart w:id="50" w:name="_Toc163040294" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>6</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>6</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Table \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>1</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Table \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Table (#3)</w:t>
       </w:r>
@@ -6120,7 +6250,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0D454D88" wp14:editId="36BC1753">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="42CEBF70" wp14:editId="10930EAC">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -6166,29 +6296,55 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="51" w:name="_Toc152751831" />
+      <w:bookmarkStart w:id="51" w:name="_Toc163040297" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
-      <w:fldSimple w:instr=" STYLEREF 1 \s ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>6</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> STYLEREF 1 \s </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>6</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>.</w:t>
       </w:r>
-      <w:fldSimple w:instr=" SEQ Figure \* ARABIC \s 1 ">
-        <w:r>
-          <w:rPr>
-            <w:noProof />
-          </w:rPr>
-          <w:t>1</w:t>
-        </w:r>
-      </w:fldSimple>
+      <w:r>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:instrText xml:space="preserve"> SEQ Figure \* ARABIC \s 1 </w:instrText>
+      </w:r>
+      <w:r>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>1</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
       <w:r>
         <w:t>: Sample Figure (#3)</w:t>
       </w:r>
@@ -6198,7 +6354,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading2" />
       </w:pPr>
-      <w:bookmarkStart w:id="52" w:name="_Toc152751822" />
+      <w:bookmarkStart w:id="52" w:name="_Toc163040288" />
       <w:r>
         <w:t>Detailed Description of Embodiments Invention</w:t>
       </w:r>
@@ -6226,7 +6382,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="53" w:name="_Toc152751823" />
+      <w:bookmarkStart w:id="53" w:name="_Toc163040289" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Conclusion</w:t>
@@ -6405,7 +6561,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="54" w:name="_Toc152751824" />
+      <w:bookmarkStart w:id="54" w:name="_Toc163040290" />
       <w:commentRangeStart w:id="55" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -6487,7 +6643,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="56" w:name="_Toc152751825" />
+      <w:bookmarkStart w:id="56" w:name="_Toc163040291" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
