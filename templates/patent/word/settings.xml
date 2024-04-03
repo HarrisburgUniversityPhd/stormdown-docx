@@ -6,7 +6,6 @@
   <w:doNotTrackMoves />
   <w:doNotTrackFormatting />
   <w:defaultTabStop w:val="720" />
-  <w:evenAndOddHeaders />
   <w:characterSpacingControl w:val="doNotCompress" />
   <w:footnotePr>
     <w:footnote w:id="-1" />

@@ -244,14 +244,14 @@
       </w:r>
       <w:r>
         <w:br />
-        <w:t>Template v3.0</w:t>
+        <w:t>Template v3.1</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -292,14 +292,14 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -332,15 +332,14 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -487,9 +486,8 @@
         </w:pBdr>
         <w:ind w:left="2160" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -647,9 +645,8 @@
         <w:spacing w:line="240" w:lineRule="auto" />
         <w:ind w:left="2880" w:firstLine="0" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -682,15 +679,14 @@
     </w:p>
     <w:p>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -1410,9 +1406,8 @@
         <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:footerReference w:type="default" r:id="rId14" />
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1507,9 +1502,8 @@
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1607,9 +1601,8 @@
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1806,9 +1799,8 @@
       <w:pPr>
         <w:sectPr>
           <w:footerReference w:type="default" r:id="rId15" />
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1983,9 +1975,8 @@
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2009,15 +2000,14 @@
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
       </w:pPr>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantu, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantu, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -2036,7 +2026,7 @@
         <w:ind w:firstLine="0" />
       </w:pPr>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -2466,7 +2456,7 @@
     <w:p />
     <w:p>
       <w:r>
-        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut. Reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
+        <w:t>Lorem ipsum dolor sit amet, his ornatus disputando ut reprimique adversarium in vix, labore virtute nominati pro eu. Per ea sonet omnium, cu torquatos repudiandae vim. Dolor quaerendum an mei. Libris singulis posidonium has eu, usu et sale urbanitas efficiantur, mea eu eros delectus.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -2557,9 +2547,8 @@
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2634,9 +2623,8 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2706,9 +2694,8 @@
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2782,9 +2769,8 @@
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2868,9 +2854,8 @@
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:type w:val="oddPage" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2892,9 +2877,8 @@
       <w:bookmarkEnd w:id="18" />
     </w:p>
     <w:sectPr>
-      <w:type w:val="oddPage" />
       <w:pgSz w:w="12240" w:h="15840" />
-      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="720" />
+      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
       <w:cols w:space="720" />
       <w:docGrid w:linePitch="360" />
     </w:sectPr>
