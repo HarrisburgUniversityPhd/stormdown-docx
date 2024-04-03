@@ -36,16 +36,19 @@ We need the XML contents of the _pkzip_ file expanded to a folder structure to w
 
 In order to work on the templates do the following:
 
-1. Create a fresh _.dotx_ file from folder structure.
+1. Include _~/custom dictionary/Latin Copy Text.dic_ in MS Word's UProof folder.
+   File > Options > Proofing > Custom Dictionaries.
+2. Create a fresh _.dotx_ file from folder structure.
    (see below).
-2. Use MS Word to update the template.
+3. Use MS Word to update the template.
    **NOTE**: Open the file with drag and drop OR right-click > open.
    Do NOT use double-click.
    If you open using double-click, MS Word assumes you want to make a document _based_ on the template, not update the template itself.
-3. Convert the single _.dotx_ back to the folder structure.
+4. Convert the single _.dotx_ back to the folder structure.
    (see below).
-4. Use VS Code to update source control.
-5. Copy the _.dotx_ file to [releases](https://github.com/HarrisburgUniversityPhd/stormdown-docx/releases).
+5. Use VS Code to update source control.
+6. Copy the _.dotx_ file to [releases](https://github.com/HarrisburgUniversityPhd/stormdown-docx/releases).
+7. Cleanup templates
 
 ```{powershell}
 cd "C:/repos/HarrisburgUniversityPhd/stormdown-docx/templates"
@@ -54,7 +57,15 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned –Scope Process -Force
 . ../tools/tools.ps1
 Set-ExecutionPolicy -ExecutionPolicy $policy –Scope Process -Force
 
-write-template -name 'base'
+write-template -name 'classic'
+write-template -name 'journal portfolio'
+write-template -name 'patent'
+write-template -name 'patent portfolio'
 # edit using Word
-write-folder -name 'base'
+write-folder -name 'classic'
+write-folder -name 'journal portfolio'
+write-folder -name 'patent'
+write-folder -name 'patent portfolio'
+# upload to GitHub
+rm *.dotx
 ```
