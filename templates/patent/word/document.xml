@@ -134,7 +134,7 @@
           <w:noProof />
         </w:rPr>
         <w:drawing>
-          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="48FA53A6" wp14:editId="4667E830">
+          <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="397258FD" wp14:editId="72CCC411">
             <wp:simplePos x="0" y="0" />
             <wp:positionH relativeFrom="margin">
               <wp:align>center</wp:align>
@@ -157,7 +157,7 @@
                     <pic:cNvPicPr />
                   </pic:nvPicPr>
                   <pic:blipFill>
-                    <a:blip r:embed="rId11">
+                    <a:blip r:embed="rId9">
                       <a:extLst>
                         <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
                           <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0" />
@@ -203,8 +203,15 @@
         <w:spacing w:line="240" w:lineRule="auto" />
         <w:ind w:firstLine="0" />
         <w:jc w:val="center" />
+        <w:sectPr>
+          <w:pgSz w:w="12240" w:h="15840" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
+          <w:cols w:space="720" />
+          <w:docGrid w:linePitch="360" />
+        </w:sectPr>
       </w:pPr>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Department of Analytics</w:t>
       </w:r>
       <w:r>
@@ -213,20 +220,8 @@
       </w:r>
       <w:r>
         <w:br />
-        <w:t>November 2023</w:t>
+        <w:t>April 2024</w:t>
       </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:sectPr>
-          <w:footerReference w:type="even" r:id="rId12" />
-          <w:footerReference w:type="default" r:id="rId13" />
-          <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
-          <w:cols w:space="720" />
-          <w:docGrid w:linePitch="360" />
-        </w:sectPr>
-      </w:pPr>
     </w:p>
     <w:p>
       <w:pPr>
@@ -244,14 +239,14 @@
       </w:r>
       <w:r>
         <w:br />
-        <w:t>Template v3.1</w:t>
+        <w:t>Template v3.2</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -299,7 +294,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -339,7 +334,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -487,7 +482,7 @@
         <w:ind w:left="2160" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -646,7 +641,7 @@
         <w:ind w:left="2880" w:firstLine="0" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -686,7 +681,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -728,7 +723,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -767,7 +762,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040298 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057404 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -797,7 +792,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -827,7 +822,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040299 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057405 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -857,7 +852,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -887,7 +882,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040300 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057406 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -917,7 +912,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -947,7 +942,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040301 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057407 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -964,7 +959,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>5</w:t>
+        <w:t>6</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -977,7 +972,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1007,7 +1002,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040302 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057408 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1024,7 +1019,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>9</w:t>
+        <w:t>11</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1037,7 +1032,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1067,67 +1062,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040303 \h </w:instrText>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="separate" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>10</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="end" />
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:pPr>
-        <w:pStyle w:val="TOC1" />
-        <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
-        </w:tabs>
-        <w:rPr>
-          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
-          <w:noProof />
-          <w:szCs w:val="24" />
-        </w:rPr>
-      </w:pPr>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:t>5 Summary of Embodiments of the Invention</w:t>
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:tab />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:fldChar w:fldCharType="begin" />
-      </w:r>
-      <w:r>
-        <w:rPr>
-          <w:noProof />
-        </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040304 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057409 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1157,7 +1092,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1169,7 +1104,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>6 Brief Description of the Drawings</w:t>
+        <w:t>5 Summary of Embodiments of the Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1187,7 +1122,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040305 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057410 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1217,7 +1152,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1229,7 +1164,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>7 Detailed Description of Embodiments Invention</w:t>
+        <w:t>6 Brief Description of the Drawings</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1247,7 +1182,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040306 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057411 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1277,7 +1212,7 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1289,7 +1224,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>Bibliography</w:t>
+        <w:t>7 Detailed Description of Embodiments Invention</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1307,7 +1242,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040307 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057412 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1337,7 +1272,67 @@
       <w:pPr>
         <w:pStyle w:val="TOC1" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
+        </w:tabs>
+        <w:rPr>
+          <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
+          <w:noProof />
+          <w:szCs w:val="24" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>Bibliography</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="begin" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057413 \h </w:instrText>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="separate" />
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:t>20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:noProof />
+        </w:rPr>
+        <w:fldChar w:fldCharType="end" />
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="TOC1" />
+        <w:tabs>
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1367,7 +1362,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040308 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057414 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1384,7 +1379,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>19</w:t>
+        <w:t>a</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1405,9 +1400,8 @@
       <w:pPr>
         <w:ind w:firstLine="0" />
         <w:sectPr>
-          <w:footerReference w:type="default" r:id="rId14" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1422,7 +1416,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="5" w:name="_Toc163040298" />
+      <w:bookmarkStart w:id="5" w:name="_Toc163057404" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Tables</w:t>
@@ -1433,7 +1427,7 @@
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1472,7 +1466,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040309 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057415 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1489,7 +1483,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>10</w:t>
+        <w:t>12</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1503,7 +1497,7 @@
         <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1521,7 +1515,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="6" w:name="_Toc163040299" />
+      <w:bookmarkStart w:id="6" w:name="_Toc163057405" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>List of Figures</w:t>
@@ -1532,7 +1526,7 @@
       <w:pPr>
         <w:pStyle w:val="TableofFigures" />
         <w:tabs>
-          <w:tab w:val="right" w:leader="dot" w:pos="10790" />
+          <w:tab w:val="right" w:leader="dot" w:pos="8976" />
         </w:tabs>
         <w:rPr>
           <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" />
@@ -1571,7 +1565,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:instrText xml:space="preserve"> PAGEREF _Toc163040310 \h </w:instrText>
+        <w:instrText xml:space="preserve"> PAGEREF _Toc163057419 \h </w:instrText>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1588,7 +1582,7 @@
         <w:rPr>
           <w:noProof />
         </w:rPr>
-        <w:t>11</w:t>
+        <w:t>13</w:t>
       </w:r>
       <w:r>
         <w:rPr>
@@ -1602,7 +1596,7 @@
         <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:fmt="lowerRoman" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1616,7 +1610,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="7" w:name="_Toc163040300" />
+      <w:bookmarkStart w:id="7" w:name="_Toc163057406" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Introduction</w:t>
@@ -1679,52 +1673,6 @@
     </w:p>
     <w:p>
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
@@ -1761,12 +1709,12 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -1782,6 +1730,56 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t xml:space="preserve">Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod </w:t>
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -1798,9 +1796,8 @@
     <w:p>
       <w:pPr>
         <w:sectPr>
-          <w:footerReference w:type="default" r:id="rId15" />
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:pgNumType w:start="1" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
@@ -1814,7 +1811,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="8" w:name="_Toc163040301" />
+      <w:bookmarkStart w:id="8" w:name="_Toc163057407" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Technical Field</w:t>
@@ -1856,52 +1853,6 @@
     </w:p>
     <w:p>
       <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:lastRenderedPageBreak />
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
-        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
-      </w:r>
-    </w:p>
-    <w:p>
-      <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
@@ -1938,12 +1889,12 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -1959,6 +1910,56 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t xml:space="preserve">Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod </w:t>
+      </w:r>
+      <w:r>
+        <w:lastRenderedPageBreak />
+        <w:t>instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -1976,7 +1977,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -1989,7 +1990,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="9" w:name="_Toc163040302" />
+      <w:bookmarkStart w:id="9" w:name="_Toc163057408" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Background</w:t>
@@ -2001,7 +2002,7 @@
         <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2014,7 +2015,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="10" w:name="_Toc163040303" />
+      <w:bookmarkStart w:id="10" w:name="_Toc163057409" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Claims</w:t>
@@ -2034,7 +2035,7 @@
         <w:pStyle w:val="Caption" />
         <w:keepNext />
       </w:pPr>
-      <w:bookmarkStart w:id="11" w:name="_Toc163040309" />
+      <w:bookmarkStart w:id="11" w:name="_Toc163057415" />
       <w:r>
         <w:t xml:space="preserve">Table </w:t>
       </w:r>
@@ -2095,10 +2096,10 @@
         <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
       </w:tblPr>
       <w:tblGrid>
-        <w:gridCol w:w="2517" />
-        <w:gridCol w:w="2517" />
-        <w:gridCol w:w="2518" />
-        <w:gridCol w:w="2518" />
+        <w:gridCol w:w="2208" />
+        <w:gridCol w:w="2449" />
+        <w:gridCol w:w="2216" />
+        <w:gridCol w:w="2103" />
       </w:tblGrid>
       <w:tr>
         <w:tc>
@@ -2496,7 +2497,7 @@
         </w:rPr>
         <w:lastRenderedPageBreak />
         <w:drawing>
-          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="1B434DF6" wp14:editId="001285A7">
+          <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="348AA674" wp14:editId="462087BB">
             <wp:extent cx="6400800" cy="4135120" />
             <wp:effectExtent l="0" t="0" r="0" b="0" />
             <wp:docPr id="1693500929" name="Picture 3" descr="A graph with blue and red squares&#xA;&#xA;Description automatically generated" />
@@ -2511,7 +2512,7 @@
                     <pic:cNvPicPr />
                   </pic:nvPicPr>
                   <pic:blipFill>
-                    <a:blip r:embed="rId16">
+                    <a:blip r:embed="rId10">
                       <a:extLst>
                         <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
                           <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0" />
@@ -2542,7 +2543,7 @@
       <w:pPr>
         <w:pStyle w:val="Caption" />
       </w:pPr>
-      <w:bookmarkStart w:id="12" w:name="_Toc163040310" />
+      <w:bookmarkStart w:id="12" w:name="_Toc163057419" />
       <w:r>
         <w:t xml:space="preserve">Figure </w:t>
       </w:r>
@@ -2600,7 +2601,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2610,7 +2611,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="13" w:name="_Toc163040304" />
+      <w:bookmarkStart w:id="13" w:name="_Toc163057410" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Summary of Embodiments of the Invention</w:t>
@@ -2652,12 +2653,12 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Diam justo et quo, an prima inermis qui. Eam laudem praesent no, atqui graeco nonumes te sed, et has suas facete diceret. Nihil instructior ius ad, nec nobis utamur ad. No repudiare theophrastus mei, vim novum scribentur ad.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
@@ -2676,7 +2677,7 @@
         <w:pStyle w:val="Heading1" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2686,7 +2687,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="14" w:name="_Toc163040305" />
+      <w:bookmarkStart w:id="14" w:name="_Toc163057411" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Brief Description of the Drawings</w:t>
@@ -2728,12 +2729,12 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -2747,7 +2748,7 @@
         <w:ind w:firstLine="0" />
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2757,7 +2758,7 @@
       <w:pPr>
         <w:pStyle w:val="Heading1" />
       </w:pPr>
-      <w:bookmarkStart w:id="15" w:name="_Toc163040306" />
+      <w:bookmarkStart w:id="15" w:name="_Toc163057412" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Detailed Description of Embodiments Invention</w:t>
@@ -2799,12 +2800,12 @@
     </w:p>
     <w:p>
       <w:r>
+        <w:lastRenderedPageBreak />
         <w:t>Semper instructior ei sit, cu tamquam dolores mei. Ex suas vocent delicata est, augue populo te vim. Accumsan aliquando vituperatoribus eu mel, ne euismod instructior vel, vix ea delectus appetere. Pro id graeci laoreet eligendi. Eos ex animal timeam accumsan, ad mel platonem delicata. Quo doming necessitatibus eu.</w:t>
       </w:r>
     </w:p>
     <w:p>
       <w:r>
-        <w:lastRenderedPageBreak />
         <w:t>At natum legimus per, ex his meis bonorum fuisset. Id equidem dolores principes pro. Te fabulas facilisis est. Ad mea case dicit numquam, eos et oratio dicant soluta. Nisl prima voluptatibus eu vis, enim postea offendit mei eu, tale purto ne vix. Per ut errem vivendo.</w:t>
       </w:r>
     </w:p>
@@ -2822,7 +2823,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2839,7 +2840,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="16" w:name="_Toc163040307" />
+      <w:bookmarkStart w:id="16" w:name="_Toc163057413" />
       <w:commentRangeStart w:id="17" />
       <w:r>
         <w:lastRenderedPageBreak />
@@ -2907,7 +2908,7 @@
       <w:pPr>
         <w:sectPr>
           <w:pgSz w:w="12240" w:h="15840" />
-          <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+          <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
           <w:cols w:space="720" />
           <w:docGrid w:linePitch="360" />
         </w:sectPr>
@@ -2921,7 +2922,7 @@
           <w:numId w:val="0" />
         </w:numPr>
       </w:pPr>
-      <w:bookmarkStart w:id="18" w:name="_Toc163040308" />
+      <w:bookmarkStart w:id="18" w:name="_Toc163057414" />
       <w:r>
         <w:lastRenderedPageBreak />
         <w:t>Appendix</w:t>
@@ -2930,7 +2931,8 @@
     </w:p>
     <w:sectPr>
       <w:pgSz w:w="12240" w:h="15840" />
-      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720" w:header="720" w:footer="720" w:gutter="0" />
+      <w:pgMar w:top="1627" w:right="1627" w:bottom="1627" w:left="1627" w:header="720" w:footer="720" w:gutter="0" />
+      <w:pgNumType w:fmt="lowerLetter" w:start="1" />
       <w:cols w:space="720" />
       <w:docGrid w:linePitch="360" />
     </w:sectPr>
